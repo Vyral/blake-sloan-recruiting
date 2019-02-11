@@ -5,8 +5,8 @@
     <description>Blake Sloan, a top Real Estate Agent in Myrtle Beach, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Feb 2019 15:50:58 -0600</pubDate>
-    <lastBuildDate>Fri, 08 Feb 2019 15:50:58 -0600</lastBuildDate>
+    <pubDate>Mon, 11 Feb 2019 10:56:39 -0600</pubDate>
+    <lastBuildDate>Mon, 11 Feb 2019 10:56:39 -0600</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
     
       <item>
@@ -29,11 +29,11 @@
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         <guid isPermaLink="true">localhost:4000/this-is-a-test-post-copy-2.html</guid>
         
-        <category>Market Update</category>
+        <category>Buyer Prospects</category>
         
-        <category>Real Estate</category>
+        <category>Transaction Management</category>
         
-        <category>Home Seller Tips</category>
+        <category>Reviews and Referrals</category>
         
         
       </item>
@@ -74,11 +74,11 @@
         <link>localhost:4000/a-fox-in-space.html</link>
         <guid isPermaLink="true">localhost:4000/a-fox-in-space.html</guid>
         
-        <category>Market Update</category>
+        <category>Lead Generation</category>
         
-        <category>Real Estate</category>
+        <category>Lead Conversion</category>
         
-        <category>Home Seller Tips</category>
+        <category>Listing Presentation</category>
         
         
       </item>

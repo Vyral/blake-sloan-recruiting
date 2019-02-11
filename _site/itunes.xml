@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sloan Realty Group - your professional Myrtle Beach Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Blake Sloan</managingEditor>
-    <lastBuildDate>2019-02-08 15:50:58 -0600</lastBuildDate>
+    <lastBuildDate>2019-02-11 10:56:39 -0600</lastBuildDate>
     <media:copyright>Blake Sloan</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -28,11 +28,11 @@
         <title>this is a test post</title>
         <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
         
-          <category>Market Update</category>
+          <category>Buyer Prospects</category>
         
-          <category>Real Estate</category>
+          <category>Transaction Management</category>
         
-          <category>Home Seller Tips</category>
+          <category>Reviews and Referrals</category>
         
         <author>Blake Sloan</author>
         <pubDate>2018-05-10 00:00:00 -0500</pubDate>
@@ -65,11 +65,11 @@ Oh. You need a little dummy text for your mockup? How quaint.I bet you’re stil
         <title>A Fox in Space</title>
         <link>localhost:4000/a-fox-in-space.html</link>
         
-          <category>Market Update</category>
+          <category>Lead Generation</category>
         
-          <category>Real Estate</category>
+          <category>Lead Conversion</category>
         
-          <category>Home Seller Tips</category>
+          <category>Listing Presentation</category>
         
         <author>Blake Sloan</author>
         <pubDate>2018-05-07 00:00:00 -0500</pubDate>

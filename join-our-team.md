@@ -78,8 +78,10 @@ permalink: /join-our-team/
 <p>I hope to hear from you soon!</p>
 
 
-<p>{{site.data.settings.client.name}}</p>
-
+<p>{{site.data.settings.client.name}}<br>
+<a href="tel:{{ site.data.settings.client.phone }}">{{ site.data.settings.client.phone }}</a><br />
+<a href="mailto:{{ site.data.settings.client.email }}" target="_blank">{{ site.data.settings.client.email }}</a><br />
+<a href="{{ site.data.settings.client.url }}" target="_blank">{{ site.data.settings.client.url | remove: 'http://' | remove: 'https://' }}</a></p>
 
 
 <h2 class="recruiting">Apply Now to Join Our Team</h2>
