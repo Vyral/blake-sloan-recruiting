@@ -7,13 +7,13 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sloan Realty Group - your professional Myrtle Beach Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Blake Sloan</managingEditor>
-    <lastBuildDate>2019-02-11 10:56:39 -0600</lastBuildDate>
+    <lastBuildDate>2019-02-19 11:12:59 -0600</lastBuildDate>
     <media:copyright>Blake Sloan</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
-      <itunes:email>blake@srgmail.com</itunes:email>
+      <itunes:email>mail@SRGmail.com</itunes:email>
       <itunes:name>Blake Sloan</itunes:name>
     </itunes:owner>
     <itunes:author>Blake Sloan</itunes:author>
@@ -25,92 +25,66 @@
       <itunes:category text="Education"/>
     
       <item>
-        <title>this is a test post</title>
-        <link>localhost:4000/this-is-a-test-post-copy-2.html</link>
-        
-          <category>Buyer Prospects</category>
+        <title>5 Ways To Overcome The Sales Slump</title>
+        <link>localhost:4000/5-ways-to-overcome-the-sales-slump.html</link>
         
           <category>Transaction Management</category>
         
-          <category>Reviews and Referrals</category>
-        
         <author>Blake Sloan</author>
-        <pubDate>2018-05-10 00:00:00 -0500</pubDate>
+        <pubDate>2019-02-19 00:00:00 -0600</pubDate>
         <guid></guid>
-        <description>
+        <description>TODAY’S TOPIC: “HOW TO RECOVER FROM (OR AVOID) THAT CRAPPY MONTH IN SALES!”.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
+We Have ALL Been There At Some Point… Riding That “ROLLER COASTER”… The Up’s.. The Doowwnsss… It Sucks!!
 
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
+Today We Talk About 5 WAYS TO RECOVER FROM THAT SALES SLUMP! (AKA.. A CRAPPY MONTH OF SALES!)
 
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
+We Talk About:
 
-“This is an example of a pull quote”
+-WHO YOU NEED TO CALL FIRST TO RECOVER….
+-THE FASTEST PLACE TO GET REFERRALS
+-UNDERWHELMING YOUR PROSPECTS VS. OVERWHELMING YOUR PROSPECTS
 
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
+-AND OF COURSE.. MORE GREAT NUGGETS :)
 
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
+
+
+
+
+We Just Shot A New Podcast Episode And Decided To Share The Video… WE DROP SOME GREAT NUGGETS THAT I FIGURED MAY HELP YOU, OR SOMEONE YOU KNOW!..
+
+1. CALL THE OLD LEADS….. THEY KNOW YOU. THEY KNOW WHO WE ARE….
+Just calling to see if you had found a home yet.
+
+2. CALL YOUR CLOSED LEADS… AND ASK FOR REFERRALS….
+Do you know of anyone who may be making a move the next few months?… How is the house?… Things going better?… Etc…
+
+3. GET YOUR TOP 5 PROSPECTS IN THE CAR!! IDENTIFY… WRITE DOWN… AND PUT ON A STICKY NOTE…. GET THEM IN THE CAR… GET THEM LOOKING AT HOMES.
+Get them in the ether…
+
+4. SEND A GIFT TO YOUR BEST PROSPECTS….
+Could be a used amazon book… $3-$5. Be willing to invest $50-$100 to invest in yourself and your clients…
+
+5. FOLLOW UP.. FOLLOW UP.. FOLLOW UP…. IT TAKES 17 TOUCHES BEFORE SOMEONE BECOMES FAMILIAR WITH YOU IN TODAY’S TIME…..
+Differentiate, Differentiate, Differentiate
+They may mean to use you, but they forget you.
+You have to rewire your brain to realize that they need you. They want you. If you are doing good, follow up…
+Delivering value and asking for more…
+Follow up with Value… Item of Value, Market Update, Numbers
+
+Take A Listen And Let Us Know Your Thoughts….
 </description>
         <enclosure url="" length="" type="video/mp4"/>
         <media:thumbnail url="localhost:4000" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
+        <itunes:subtitle>TODAY’S TOPIC: “HOW TO RECOVER FROM (OR AVOID) THAT CRAPPY MONTH IN SALES!”.
+
+</itunes:subtitle>
         <itunes:author>Blake Sloan</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
-        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
-      </item>
-      
-      <item>
-        <title>A Fox in Space</title>
-        <link>localhost:4000/a-fox-in-space.html</link>
-        
-          <category>Lead Generation</category>
-        
-          <category>Lead Conversion</category>
-        
-          <category>Listing Presentation</category>
-        
-        <author>Blake Sloan</author>
-        <pubDate>2018-05-07 00:00:00 -0500</pubDate>
-        <guid></guid>
-        <description>
+        <itunes:summary>TODAY’S TOPIC: “HOW TO RECOVER FROM (OR AVOID) THAT CRAPPY MONTH IN SALES!”.
 
-Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps gastropub marfa retro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
-
-Bushwick marfa wayfarers heirloom pork belly. Tumblr ramps roof party, church-key portland tbh viral letterpress. Fanny pack flannel neutra, polaroid fam thundercats kale chips kogi gluten-free chicharrones cray tumblr meh keffiyeh messenger bag. Church-key vegan mixtape, ramps DIY fixie PBR&amp;B keffiyeh pinterest pop-up offal. Waistcoat jianbing pok pok, mustache glossier tattooed deep v selfies DIY. Beard fingerstache cray XOXO, iPhone readymade forage offal. Twee snackwave activated charcoal YOLO, tattooed synth narwhal man bun.
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-
-  list item
-  list item
-  list item
-  list item
-  list item
-
-
-Celiac copper mug iceland, snackwave bushwick tbh hell of occupy tilde tousled. Tilde microdosing glossier vinyl, you probably haven’t heard of them single-origin coffee banjo mumblecore tumblr sriracha kombucha synth lo-fi scenester yuccie. Dreamcatcher XOXO gochujang, aesthetic offal synth fap. Taxidermy stumptown normcore quinoa deep v. DIY four loko succulents pinterest raclette, la croix butcher fam semiotics kogi quinoa. Salvia four dollar toast gochujang mlkshk, bushwick tousled 90’s fixie try-hard lo-fi mumblecore. Authentic kitsch listicle man bun.
-
-“This is an example of a pull quote”
-
-Actually trust fund ugh banjo, affogato shabby chic single-origin coffee copper mug live-edge banh mi put a bird on it. Tote bag stumptown banjo typewriter. Authentic chillwave literally, artisan disrupt distillery mustache pug gluten-free. Direct trade echo park tbh meditation YOLO kinfolk. 3 wolf moon typewriter vape listicle, ennui pug kale chips tilde marfa. PBR&amp;B photo booth helvetica gluten-free. Fashion axe normcore hammock yuccie blog dreamcatcher.
-
-Oh. You need a little dummy text for your mockup? How quaint.I bet you’re still using Bootstrap too…
-</description>
-        <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
-        <media:content url="" type="video/mp4"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:subtitle>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:subtitle>
-        <itunes:author>Blake Sloan</itunes:author>
-        <itunes:summary>Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.</itunes:summary>
+</itunes:summary>
         <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
       </item>
       
