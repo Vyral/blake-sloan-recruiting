@@ -1692,6 +1692,9 @@ p {
 ul {
   list-style: disc; }
 
+ol {
+  list-style: decimal; }
+
 .left {
   text-align: left; }
 
