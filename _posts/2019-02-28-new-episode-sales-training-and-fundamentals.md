@@ -3,7 +3,6 @@ layout: post
 title: New Episode! Sales Training and Fundamentals
 date: 2019-02-28 10:16:00
 tags:
-  - Lead Generation
 excerpt:
 enclosure:
 pullquote: >-
