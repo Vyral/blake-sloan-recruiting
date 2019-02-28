@@ -13,6 +13,8 @@ custom_links:
     url: /subscribe/
   - title: Apprenticeship
     url: /apprenticeship/
+  - title: Testimonials
+    url: /testimonials/
 
 client:
   name: Blake Sloan
