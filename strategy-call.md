@@ -20,9 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<!-- {% include strategy-photos.html %} -->
-
-<p>My name is ____ and I’ve sold ____ of homes to date.</p>
+<p>My name is Blake Sloan we’ve sold 3500 homes to date.</p>
 
 <p>I want to help you sell more homes.</p>
 
@@ -36,7 +34,7 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<hr>
+<!--<hr>
 <div class="qanda">
 <p class="section-title">Here’s what a few agents say about working with me…</p>
 
@@ -49,13 +47,13 @@ permalink: /strategy-call/
 <p><span class="quote"></span><br>
 <span class="author"></span></p>
 </div>
-<hr>
+<hr>-->
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
 <p>Why am I offering this?</p>
 
-<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our brokerage.</p>
+<p>I’ll help you for free in return that maybe, over the long term – and only if it makes sense - you’d like to learn more about working at our team.</p>
 
 <p>Let me be clear that is not the intent of the meeting. That’s another conversation for another time and only if you have any interest.</p>
 
