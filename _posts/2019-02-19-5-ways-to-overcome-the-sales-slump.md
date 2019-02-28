@@ -3,7 +3,6 @@ layout: post
 title: 5 Ways To Overcome The Sales Slump
 date: 2019-02-19
 tags:
-  - Transaction Management
 excerpt:
 enclosure:
 pullquote:
