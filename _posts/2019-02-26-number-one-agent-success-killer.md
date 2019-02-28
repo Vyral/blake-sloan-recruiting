@@ -3,7 +3,6 @@ layout: post
 title: 'New Episode! The #1 Agent Success Killer'
 date: 2019-02-26
 tags:
-  - Transaction Management
 excerpt:
 enclosure:
 pullquote:
