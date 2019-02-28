@@ -13,21 +13,21 @@ youtube_alternate_image:
 youtube_code: 3Rtg7DVL2dM
 ---
 
-TODAY'S TOPIC: "**SHOW ME YOUR PLAN.. AND I'LL SHOW YOU YOUR FUTURE**".....
+TODAY'S TOPIC: "**SHOW ME YOUR PLAN.. AND I'LL SHOW YOU YOUR FUTURE**"…..
 
-Last Week We Talked About "TARGETS",, Today.. We Talk About A "PLAN TO HIT THOSE TARGETS"...
+Last Week We Talked About "TARGETS",, Today.. We Talk About A "PLAN TO HIT THOSE TARGETS"…
 
-SPECIFICALLY The&nbsp;**Tools To Use**, And Implement To Hatch A Plan That Will Actually Work...&nbsp;
+SPECIFICALLY The&nbsp;**Tools To Use**, And Implement To Hatch A Plan That Will Actually Work…&nbsp;
 
-MOST PEOPLE... Want To Be Successful.. They Have the Deep DESIRE.. WANT.. AND NEED..&nbsp;
+MOST PEOPLE… Want To Be Successful.. They Have the Deep DESIRE.. WANT.. AND NEED..&nbsp;
 
-BUT...&nbsp;**THEY DO NOT KNOW WHAT TO DO EVERY SINGLE DAY TO MAKE THAT HAPPEN**...&nbsp;
+BUT…&nbsp;**THEY DO NOT KNOW WHAT TO DO EVERY SINGLE DAY TO MAKE THAT HAPPEN**…&nbsp;
 
-AKA.. A Daily Plan... Like To The Hour....&nbsp;**THEY FEEL LOST.**.&nbsp;
+AKA.. A Daily Plan… Like To The Hour….&nbsp;**THEY FEEL LOST.**.&nbsp;
 
 -We Talk About IDEAL WEEKLY SCHEDULE'S (IWS)&nbsp;
 
--Clear BENCHMARKS... Reverse Engineering Production From The BIG TARGET!&nbsp;
+-Clear BENCHMARKS… Reverse Engineering Production From The BIG TARGET!&nbsp;
 
 -Breaking The Benchmark Into&nbsp;**4 WEEKLY KEYS**!&nbsp;
 
@@ -37,13 +37,13 @@ AKA.. A Daily Plan... Like To The Hour....&nbsp;**THEY FEEL LOST.**.&nbsp;
 
 {% include youtube.html %}
 
-**[Click Here](http://r20.rs6.net/tn.jsp?t=ngzuxg5ab.0.0.asp6xjrab.0&amp;id=preview&amp;r=3&amp;p=https%3A%2F%2Fyoutu.be%2F3Rtg7DVL2dM){: target="_blank"}**&nbsp;To View The Video
+**[Click Here](https://www.youtube.com/watch?v=3Rtg7DVL2dM&amp;feature=youtu.be){: target="_blank"}**&nbsp;To View The Video
 
 On this episode we talk about REAL tools that can help you get clear, and&nbsp; DOMINATE in 2019.&nbsp;
 
-**A CRYSTAL CLEAR PLAN OF EXECUTION...&nbsp;**
+**A CRYSTAL CLEAR PLAN OF EXECUTION…&nbsp;**
 
-**1 Page 90 Day Power Life & Business Plan ....&nbsp;**
+**1 Page 90 Day Power Life & Business Plan ….&nbsp;**
 
 **The Missing Link To Help Unlock Your Full Potential In 2019..**
 
@@ -51,4 +51,4 @@ On this episode we talk about REAL tools that can help you get clear, and&nbsp; 
 
 **Meaning.. You Actually Follow Through With Your&nbsp;****Commitments****&nbsp;REGARDLESS Of What Life Throws At You.. Regardless Of The Road Blocks.. Or HOW WE FEEL****!&nbsp;**
 
-Take A Listen And Let Us Know Your Thoughts....&nbsp;
+Take A Listen And Let Us Know Your Thoughts….&nbsp;
