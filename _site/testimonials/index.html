@@ -15,7 +15,8 @@
   <!-- fonts -->
   <link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,300,300italic,200' rel='stylesheet' type='text/css'>
   <!-- style-->
-  <link rel="stylesheet" href="/css/main.css">
+	<link rel="stylesheet" href="/css/main.css">
+  <link rel="stylesheet" href="/css/mylist-player.css">
   <link rel="canonical" href="localhost:4000/testimonials/">
   <link rel="alternate" type="application/rss+xml" title="Myrtle Beach Real Estate Careers" href="localhost:4000/feed.xml">
   <!-- All that meta crap -->
@@ -57,6 +58,25 @@
 	<link rel="manifest" href="/img/favicons/manifest.json">
 	<link rel="mask-icon" href="/img/favicons/safari-pinned-tab.svg" color="#5bbad5">
 	<meta name="theme-color" content="#999">
+
+	<!-- MyList PLAYER SETTINGS -->
+	<script type="text/javascript">
+		var playListID = ["PLchfaydl5FE87Pk6Vq6BIAgHSXJUgbT4d"]; // replace with your desired youtube playlist ID
+		var apiKey = "AIzaSyBMRyIdlgyAKIoKe9ptUZgejHZQB3RWumY"; // this default YouTube API key will work but you should change it to your own
+		var autoPlayNext = 0; // auto play next video in list when current ends? 0 for no. 1 for yes.
+		var showPlayerControls = 1; // display YouTube video player controls? 0 for no. 1 for yes.
+		var showVideoInfo = 1; // display video title on youtube player? 0 for no. 1 for yes.
+		var showRelatedVideos = 0; // display related videos after video ends? 0 for no. 1 for yes.
+		var showTitlesInList = 1; // display video titles under each thumbnail in playlist? 0 for no. 1 for yes.
+	</script>
+
+	<!-- jQuery -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+	<!-- MyList Javascript -->
+	<script src="/js/mylist-player.js"></script>
+
+
 </head>
 
 
@@ -187,7 +207,21 @@
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-lg-offset-1">
 					<h3 class="site-title">Our Mission on this site is to educate Real Estate Agents on how to sell more homes.</h3>
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLchfaydl5FE87Pk6Vq6BIAgHSXJUgbT4d" frameborder="0" allowfullscreen=""></iframe>
+					<div id="player-container1" class="player-container">
+    <!-- THE YOUTUBE PLAYER -->
+    <div class="mlvp-container">
+        <div id="vid_frame1"></div>
+    </div>
+    <!-- LEFT AND RIGHT ARROWS -->
+    <div class="mlvp-arrows">
+        <div class="mlvp-arrow-left"><i class="demo-icon icon-left-open">&#xe800;</i></div>
+        <div class="mlvp-arrow-right"><i class="demo-icon icon-right-open">&#xe801;</i></div>
+    </div>
+    <!-- THE PLAYLIST -->
+    <div class="mlvp-list-container">
+        <div class="mlvp-list noselect" ></div>
+    </div>
+</div>
 
 				</div>
 
@@ -541,6 +575,7 @@ function topFunction() {
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 <script type="text/javascript" src="https://use.fontawesome.com/3958139b47.js"></script>
 <script type="text/javascript" src="/js/script.js"></script>
+<script type="text/javascript" src="/js/mylist-player.js"></script>
 <script type="text/javascript" src="/js/owl.carousel.min.js"></script>
 <script type="text/javascript" src="/js/jquery.jplayer.min.js"></script>
 <script type="text/javascript" src="/js/media-player.js"></script>
