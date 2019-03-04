@@ -14,4 +14,6 @@ youtube_alternate_image:
 youtube_code: adAvlv-2hkU
 ---
 
+TODAY'S TOPIC: "THE HOLY GRAIL IN REAL ESTATE"
+
 {% include youtube.html %}
