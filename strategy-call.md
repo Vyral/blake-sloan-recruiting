@@ -44,8 +44,8 @@ permalink: /strategy-call/
 <p><span class="quote">"Most of my life i didn't even use an alarm clock or even know what a Pod cast was . I was Completely new to the industry fresh out of Real Estate class and excited to start my new path , I knew Sloan was where i wanted and needed to be. Under Blake's training, Alex's mentor-ship and an amazing team, my life has completely changed! The level of dedication to helping me exceptionally succeed both personally and professionally is something i have never experienced in my work environment. The system Blake and Alex instill in each of us daily is proven and undeniable - RESULTS simply do not lie ! In the last 3 months from start date, I have signed 30 Clients , I have put 2.26 Million under contract , I have Closed on 5 homes already this year, and set to close another 4 in the next 2 weeks . In my life I have never been more balanced not only in business but with my body, spiritual being, and in my relationships . Thank you guys- your system works , you just need to consistently follow it !!!"</span><br>
 <span class="author">- Tiffany Santos</span></p>
 
-<!-- <p><span class="quote"></span><br>
-<span class="author"></span></p> -->
+<p><span class="quote">"I came into the Real Estate business hungry but had no sales experience or what we call sales IQ simply because I wasn't taught to have sales IQ at my old job. After a couple of months practicing and listening to the materials that were provided for me I can tell a 100% difference in my game. Most importantly the level of trainings provided in the mornings to cover topics, Tuesday and Thursday trainings to help keep me sharp on my skills, and to learn new material to help me serve my clients better. Most people have to pay thousands of dollars for this kind of stuff that we get provided for for us for free!"</span><br>
+<span class="author">- Ryan Collins</span></p>
 </div>
 <hr>
 

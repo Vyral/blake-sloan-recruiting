@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sloan Realty Group - your professional Myrtle Beach Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Blake Sloan</managingEditor>
-    <lastBuildDate>2019-03-01 13:53:51 -0600</lastBuildDate>
+    <lastBuildDate>2019-03-12 15:19:03 -0500</lastBuildDate>
     <media:copyright>Blake Sloan</media:copyright>
     <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,29 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from Sloan Realty Group - your professional Myrtle Beach Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>The Holy Grail in Real Estate</title>
+        <link>localhost:4000/the-holy-grail-in-real-estate.html</link>
+        
+          <category>Training</category>
+        
+        <author>Blake Sloan</author>
+        <pubDate>2019-03-04 04:43:00 -0600</pubDate>
+        <guid></guid>
+        <description>TODAY’S TOPIC: “THE HOLY GRAIL IN REAL ESTATE”
+
+
+</description>
+        <enclosure url="" length="" type="video/mp4"/>
+        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:content url="" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>The Holy Grail in Real Estate</itunes:subtitle>
+        <itunes:author>Blake Sloan</itunes:author>
+        <itunes:summary>The Holy Grail in Real Estate</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Myrtle Beach, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>Show Me Your Plan and I'll Show You Your Future</title>
         <link>localhost:4000/show-me-your-plan-and-ill-show-you-your-future.html</link>

@@ -5,9 +5,24 @@
     <description>Blake Sloan, a top Real Estate Agent in Myrtle Beach, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Mar 2019 13:53:51 -0600</pubDate>
-    <lastBuildDate>Fri, 01 Mar 2019 13:53:51 -0600</lastBuildDate>
+    <pubDate>Tue, 12 Mar 2019 15:19:03 -0500</pubDate>
+    <lastBuildDate>Tue, 12 Mar 2019 15:19:03 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>The Holy Grail in Real Estate</title>
+        <description>&lt;p&gt;TODAY’S TOPIC: “THE HOLY GRAIL IN REAL ESTATE”&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/adAvlv-2hkU?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 04 Mar 2019 04:43:00 -0600</pubDate>
+        <link>localhost:4000/the-holy-grail-in-real-estate.html</link>
+        <guid isPermaLink="true">localhost:4000/the-holy-grail-in-real-estate.html</guid>
+        
+        <category>Training</category>
+        
+        
+      </item>
     
       <item>
         <title>Show Me Your Plan and I'll Show You Your Future</title>
