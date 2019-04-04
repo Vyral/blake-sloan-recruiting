@@ -5,9 +5,22 @@
     <description>Blake Sloan, a top Real Estate Agent in Myrtle Beach, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.</description>
     <link>localhost:4000/</link>
     <atom:link href="localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 12 Mar 2019 15:19:03 -0500</pubDate>
-    <lastBuildDate>Tue, 12 Mar 2019 15:19:03 -0500</lastBuildDate>
+    <pubDate>Thu, 04 Apr 2019 14:33:04 -0500</pubDate>
+    <lastBuildDate>Thu, 04 Apr 2019 14:33:04 -0500</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Agent Success Podcast - Strategic Seduction Continued</title>
+        <description>&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/PbGgJBd_wtg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Fri, 15 Mar 2019 05:33:00 -0500</pubDate>
+        <link>localhost:4000/agent-success-podcast-strategic-seduction-continued.html</link>
+        <guid isPermaLink="true">localhost:4000/agent-success-podcast-strategic-seduction-continued.html</guid>
+        
+        <category>Training</category>
+        
+        
+      </item>
     
       <item>
         <title>The Holy Grail in Real Estate</title>

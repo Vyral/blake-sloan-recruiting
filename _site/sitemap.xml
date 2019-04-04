@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>localhost:4000/agent-success-podcast-strategic-seduction-continued.html</loc>
+<lastmod>2019-03-15T05:33:00-05:00</lastmod>
+</url>
+<url>
 <loc>localhost:4000/the-holy-grail-in-real-estate.html</loc>
 <lastmod>2019-03-04T04:43:00-06:00</lastmod>
 </url>
@@ -65,5 +69,8 @@
 </url>
 <url>
 <loc>localhost:4000/thankyou/</loc>
+</url>
+<url>
+<loc>localhost:4000/page2/</loc>
 </url>
 </urlset>
