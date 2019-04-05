@@ -14,3 +14,4 @@ youtube_alternate_image:
 youtube_code: k21nUAwyFX8
 ---
 
+{% include youtube.html %}
