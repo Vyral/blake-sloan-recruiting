@@ -16,6 +16,11 @@ custom_links:
   - title: Testimonials
     url: /testimonials/
 
+post_ctas:
+  events_url:
+  events_image: /img/events.jpg
+  join_our_team_image: /img/join_our_team_full.jpg
+
 client:
   name: Blake Sloan
   title:
