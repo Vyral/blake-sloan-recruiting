@@ -10,7 +10,7 @@ tags:
   - Lead Generation
 excerpt: Behind The Scenes Training With Our Sales Team!
 enclosure:
-pullquote:
+pullquote: '"The Key To Sales It Setting Frames"'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
