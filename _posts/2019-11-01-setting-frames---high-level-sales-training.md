@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Setting Frames - High Level Sales Training
-date: 2019-11-01 15:05:44
+date: 2019-11-01 15:05:00
 tags:
   - Lead Conversion
   - Training
