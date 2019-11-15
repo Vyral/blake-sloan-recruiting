@@ -8,7 +8,7 @@ tags:
   - Training
   - Buyer Prospects
   - Lead Generation
-excerpt: Behind The Scenes Training  With Our Team
+excerpt: Behind The Scenes Training  With Our Team!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
