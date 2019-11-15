@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inner Game Part 1 of 2 - High Level Training
-date:
+date: 2019-11-15 20:33:11
 tags:
   - Lead Conversion
   - Listing Presentation
