@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mastering The Inner Game Part 2 of 2 - High Level Training
-date: 2019-11-20 18:01:22
+date: 2019-11-20 18:01:00
 tags:
   - Lead Conversion
   - Buyer Prospects
