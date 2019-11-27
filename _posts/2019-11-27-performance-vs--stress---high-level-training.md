@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Performance Vs. Stress - High Level Training
-date:
+date: 2019-11-27 21:06:03
 tags:
   - Lead Conversion
   - Listing Presentation
