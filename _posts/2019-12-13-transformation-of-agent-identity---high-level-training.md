@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How Real Estate Agents Think - High level Training
-date: 2019-12-13 20:23:43
+title: Transformation Of Agent Identity - High level Training
+date: 2019-12-13 20:23:00
 tags:
   - Lead Conversion
   - Listing Presentation
