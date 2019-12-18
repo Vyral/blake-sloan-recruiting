@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Transformation Of Agent Identity 1 of 2 - High level Training
+title: Transformation Of Agent Identity - High level Training
 date: 2019-12-13 20:23:00
 tags:
   - Lead Conversion
