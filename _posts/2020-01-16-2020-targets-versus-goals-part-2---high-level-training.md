@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2020 Targets Versus Goals Part 2 - High Level Training
-date: 2020-01-16 17:07:27
+date: 2020-01-16 17:07:00
 tags:
   - Buyer Prospects
   - Lead Conversion
