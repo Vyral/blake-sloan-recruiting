@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2020 Targets Versus Goals (Part 3) - High Level Training
-date: 2020-01-24 19:51:25
+title: 2020 Targets Versus Goals Part 3 - High Level Training
+date: 2020-01-24 19:51:00
 tags:
   - Lead Conversion
   - Listing Presentation
