@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Art Of Processing For Power Part 1 - High Level Training
-date: 2020-02-01 19:37:46
+date: 2020-02-01 19:37:00
 tags:
   - Buyer Prospects
   - Lead Conversion
