@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Power Of Radical Change (Part 2) - High Level Training
-date:
+date: 2020-02-29 21:01:51
 tags:
   - Buyer Prospects
   - Lead Generation
