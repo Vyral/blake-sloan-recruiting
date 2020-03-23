@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How To Survive & Thrive - Coronavirus Chaos
-date: 2020-03-23 16:01:21
+title: Coronavirus Chaos & How To Survive & Thrive
+date: 2020-03-23 16:01:00
 tags:
   - Buyer Prospects
   - Lead Conversion
