@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Corona Chaos - Victim Or Victor? - High Level Training
-date: 2020-03-26 19:08:03
+date: 2020-03-26 19:08:00
 tags:
   - Buyer Prospects
   - Lead Conversion
@@ -23,3 +23,11 @@ youtube_code: 'https://youtu.be/TbovcxOUjqQ'
 {% include pullquote.html %}
 
 {% include events-cta.html %} {% include join-our-team-cta.html %}
+
+* **VICTIM** **Vs.****VICTOR**
+
+* **What's Your****STORYLINE****?**
+
+* **How You Going To Show Up****EVERY DAY****?**
+
+* **It's Going To Get****HARDER** **Before It Gets****EASIER****\!**
