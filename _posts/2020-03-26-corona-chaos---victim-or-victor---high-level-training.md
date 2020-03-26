@@ -20,10 +20,6 @@ youtube_code: 'https://youtu.be/TbovcxOUjqQ'
 
 {% include youtube.html %}
 
-{% include pullquote.html %}
-
-{% include events-cta.html %} {% include join-our-team-cta.html %}
-
 * **VICTIM** **Vs.****VICTOR**
 
 * **What's Your****STORYLINE****?**
@@ -31,3 +27,9 @@ youtube_code: 'https://youtu.be/TbovcxOUjqQ'
 * **How You Going To Show Up****EVERY DAY****?**
 
 * **It's Going To Get****HARDER** **Before It Gets****EASIER****\!**
+
+{% include pullquote.html %}
+
+{% include events-cta.html %} {% include join-our-team-cta.html %}
+
+&nbsp;
