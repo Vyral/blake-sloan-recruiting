@@ -22,11 +22,11 @@ youtube_code: 'https://youtu.be/TbovcxOUjqQ'
 
 * **VICTIM** **Vs.****VICTOR**
 
-* **What's Your****STORYLINE****?**
+* **What's Your &nbsp;****STORYLINE****?**
 
-* **How You Going To Show Up****EVERY DAY****?**
+* **How You Going To Show Up &nbsp;****EVERY DAY****?**
 
-* **It's Going To Get****HARDER** **Before It Gets****EASIER****\!**
+* **It's Going To Get &nbsp;****HARDER** **Before It Gets &nbsp;****EASIER****\!**
 
 {% include pullquote.html %}
 
