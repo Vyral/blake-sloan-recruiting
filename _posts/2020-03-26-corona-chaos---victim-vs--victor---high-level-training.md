@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Corona Chaos - Victim Or Victor? - High Level Training
+title: Corona Chaos - Victim Vs. Victor? - High Level Training
 date: 2020-03-26 19:08:00
 tags:
   - Buyer Prospects
