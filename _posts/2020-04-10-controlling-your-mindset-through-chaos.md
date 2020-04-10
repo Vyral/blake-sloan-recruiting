@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Controlling Your Mind Through This Chaos
-date: 2020-04-10 18:43:03
+title: Controlling Your Mindset Through Chaos
+date: 2020-04-10 18:43:00
 tags:
   - Buyer Prospects
   - Lead Conversion
