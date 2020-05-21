@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Go Time Podcast
-date: 2020-05-21 20:32:38
+date: 2020-05-21 20:32:00
 tags:
   - Buyer Prospects
   - Lead Conversion
   - Lead Generation
   - Listing Presentation
   - Training
-excerpt:
+excerpt: .
 enclosure:
 pullquote:
 enclosure_type: video/mp4
