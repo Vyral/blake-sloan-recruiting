@@ -9,8 +9,8 @@ tags:
   - Listing Presentation
   - Training
 excerpt: >-
-  It's GO TIME!  Build Your MINDSET!  Build Your SKILLSET!  Surround Yourself
-  With WINNERS!.
+  It's GO TIME, Build Your MINDSET, Build Your SKILLSET, Surround Yourself With
+  WINNERS!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
