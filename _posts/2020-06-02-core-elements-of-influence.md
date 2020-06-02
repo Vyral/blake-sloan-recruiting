@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Core Elements Of Influence
-date: 2020-06-02 19:43:44
+date: 2020-06-02 19:43:00
 tags:
   - Buyer Prospects
   - Lead Conversion
