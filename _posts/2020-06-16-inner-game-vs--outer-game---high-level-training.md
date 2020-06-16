@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Inner Game Vs. Outer Game
-date: 2020-06-16 02:51:35
+title: Inner Game Vs. Outer Game - High Level Training
+date: 2020-06-16 02:51:00
 tags:
   - Buyer Prospects
   - Lead Conversion
