@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Getting Clients To Take Action - High Level Training
-date: 2020-07-06 17:50:45
+title: Action versus Fear Threshold - High Level Training
+date: 2020-07-06 17:50:00
 tags:
   - Buyer Prospects
   - Lead Conversion
