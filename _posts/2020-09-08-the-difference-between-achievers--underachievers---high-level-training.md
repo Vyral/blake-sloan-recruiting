@@ -8,7 +8,7 @@ tags:
   - Lead Generation
   - Listing Presentation
   - Training
-excerpt: Behind The Scenes Virtual Training  With Our Team!
+excerpt: Behind The Scenes Training  With Our Team!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
