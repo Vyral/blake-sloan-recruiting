@@ -1,7 +1,9 @@
 ---
 layout: post
-title: The Power Of Pressure (Part 1) - High Level Training
-date: 2020-09-23 20:07:09
+title: >-
+  Top 10 Things That Keep Agents From Being Elite Sales People - High Level
+  Training
+date: 2020-09-23 20:07:00
 tags:
   - Buyer Prospects
   - Lead Conversion
