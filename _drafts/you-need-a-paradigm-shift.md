@@ -8,18 +8,14 @@ tags:
   - Buyer Prospects
   - Listing Presentation
   - Transaction Management
-excerpt:
+excerpt: Behind The Scenes Training With Our Sales Team!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: >-
-  <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/HB97MOEWujc" frameborder="0"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
-  picture-in-picture" allowfullscreen></iframe>
+youtube_code: 'https://youtu.be/HB97MOEWujc'
 ---
 
 {% include youtube.html %}
