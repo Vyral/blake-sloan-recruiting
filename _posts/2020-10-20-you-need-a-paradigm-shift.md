@@ -1,7 +1,7 @@
 ---
 layout: post
 title: You NEED a Paradigm Shift!
-date:
+date: 2020-10-20 21:19:58
 tags:
   - Lead Conversion
   - Training
