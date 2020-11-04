@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Will You Win In The Last 58 Days Of 2020?
+title: Will You Win In The Last 56 Days Of 2020?
 date: 2020-11-03 16:15:00
 tags:
   - Lead Conversion
