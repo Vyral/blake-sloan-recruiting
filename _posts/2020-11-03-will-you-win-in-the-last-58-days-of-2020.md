@@ -1,6 +1,6 @@
 ---
 layout: post
-title: You NEED a Paradigm Shift - Part 2
+title: Will You Win In The Last 58 Days Of 2020?
 date: 2020-11-03 16:15:00
 tags:
   - Lead Conversion
@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/dh3AjlNk9dE'
+youtube_code: 'https://youtu.be/uHL0GbVqbQM'
 ---
 
 {% include youtube.html %}
