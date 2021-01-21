@@ -8,6 +8,8 @@ tags:
   - Buyer Prospects
   - Listing Presentation
   - Transaction Management
+  - Seduction
+  - Art of Seduction
 excerpt: Behind The Scenes Training With Our Sales Team!
 enclosure:
 pullquote:
