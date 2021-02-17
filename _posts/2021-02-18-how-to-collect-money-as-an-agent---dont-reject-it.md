@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Collect Money As An Agent - Don't Reject It!
-date: 2021-02-02 14:30:00
+date: 2021-02-18 05:30:00
 tags:
   - Lead Conversion
   - Training
