@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How To Collect Money As An Agent - Don't Reject It!
+title: Closing Big Ticket Sales
 date: 2021-02-18 05:30:00
 tags:
   - Lead Conversion
