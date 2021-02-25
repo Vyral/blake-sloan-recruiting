@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Feelings vs Your Word
+title: The Power Of Your Word
 date: 2021-02-18 05:30:00
 tags:
   - Lead Conversion
