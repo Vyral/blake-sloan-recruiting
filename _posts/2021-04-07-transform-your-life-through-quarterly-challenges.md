@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Changing Your Life Through Quarterly Challenges
+title: Transform Your Life Through Quarterly Challenges
 date: 2021-04-07 06:00:00
 tags:
   - Lead Conversion
