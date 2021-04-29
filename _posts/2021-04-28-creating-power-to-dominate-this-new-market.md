@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating Power Daily To Thrive In A New Market
+title: Creating Power To Dominate This New Market
 date: 2021-04-28 06:00:00
 tags:
   - Lead Conversion
