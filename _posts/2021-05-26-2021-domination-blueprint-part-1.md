@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2021 Domination Blueprint
+title: '2021 Domination Blueprint [PART 1]'
 date: 2021-05-26 06:00:00
 tags:
   - Lead Conversion
@@ -17,7 +17,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 'https://youtu.be/YwD9rPnMd5c'
+youtube_code: 'https://youtu.be/Ci-fnASMuXk'
 ---
 {% include youtube.html %}
 
