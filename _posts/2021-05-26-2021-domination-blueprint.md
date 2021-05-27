@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dominate The Rest Of 2021
+title: 2021 Domination Blueprint
 date: 2021-05-26 06:00:00
 tags:
   - Lead Conversion
