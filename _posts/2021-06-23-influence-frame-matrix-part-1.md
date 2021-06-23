@@ -12,7 +12,11 @@ tags:
   - Art of Seduction
 excerpt: Behind The Scenes Training With Our Sales Team!
 enclosure:
-pullquote:
+pullquote: >-
+  Tensions Are High In This Hot Market, So It's Imperative That Agents Learn How
+  To Best Influence Their Clients. In Part 1 Of The Influence Frame Matrix,
+  Learn The First Two Steps To Influence Your Clients And Ultimately Close More
+  Deals And Make More Money!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
