@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Time Management Matrix [PART 1]
-date: 2021-06-30 06:00:00
+date: 2021-07-07 06:00:00
 tags:
   - Art of Seduction
   - Buyer Prospects
