@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Build Wealth By Building Your Attractive Character
+title: Build Wealth By Building Your Attractive Character [PART 1]
 date: 2021-08-18 06:00:00
 tags:
   - Art of Seduction
