@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Karmic Cul-De-Sac
-date: 2021-09-16 06:00:00
+date: 2021-10-21 06:00:00
 tags:
     - Art of Seduction
     - Buyer Prospects
