@@ -4,6 +4,10 @@ title: Keeping Deals Together [PART 2]
 date: 2021-12-08 21:06:14
 tags:
   - Training
+  - Lead Generation
+  - Lead Conversion
+  - Listing Presentation
+  - Buyer Prospects
 excerpt: Behind The Scenes Training With Blake Sloan
 enclosure:
 pullquote:
