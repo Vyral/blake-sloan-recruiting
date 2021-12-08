@@ -10,7 +10,7 @@ tags:
   - Buyer Prospects
 excerpt: Behind The Scenes Training With Blake Sloan
 enclosure:
-pullquote:
+pullquote: They Are Starving To Hear Your Guidance
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
