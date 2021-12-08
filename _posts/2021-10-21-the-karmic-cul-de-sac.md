@@ -11,7 +11,7 @@ tags:
     - Training
     - Transaction Management
     - Lead Generation
-excerpt: Behind The Scenes Training With Our Sales Team!
+excerpt: Behind The Scenes Training With Our Sales Team!!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
