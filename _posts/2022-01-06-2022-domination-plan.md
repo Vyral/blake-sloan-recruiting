@@ -13,7 +13,7 @@ enclosure:
 pullquote: 4 Keys To Dominating 2022!
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2022-domination-plan-1-2.jpg
 youtube_code: https://youtu.be/xMRU1W_ApjE
 ---
