@@ -10,11 +10,11 @@ tags:
   - Buyer Prospects
 excerpt: Behind The Scenes Training With Blake Sloan
 enclosure:
-pullquote: They Are Starving To Hear Your Guidance
+pullquote: 4 Keys To Dominating 2022!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/2022-domination-plan-1-2.jpg
 youtube_code: https://youtu.be/xMRU1W_ApjE
 ---
 {% include youtube.html %}
