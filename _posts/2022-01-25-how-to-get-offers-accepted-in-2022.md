@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How To Get Offers Accepted In 2022
-date: 2019-02-19 00:00:00
+date: 2022-01-25 16:32:00
 tags:
 excerpt:
 enclosure:
