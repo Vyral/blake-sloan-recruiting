@@ -10,7 +10,7 @@ tags:
   - Offers
 excerpt: The Offer Acceptance Matrix Toolkit
 enclosure:
-pullquote: '"You must have these 4 things" '
+pullquote: You must have these 4 things
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
