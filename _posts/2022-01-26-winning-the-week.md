@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Winning The Week '
-date: 2022-01-19 18:12:00
+title: How To Win The Week As A Real Estate Agent
+date: 2022-01-26 06:12:00
 tags:
   - Lead Conversion
   - Lead Generation
@@ -9,11 +9,9 @@ tags:
   - Listing Presentation
   - Blake Sloan
   - Sloan Training
-excerpt: >-
-  Endurance in this year will be they key to your success, but that is not
-  enough alone! 
+excerpt: 'These are your daily tools for you to win every week! '
 enclosure:
-pullquote: There must be a focus on expansion while enduring!
+pullquote: These High Level Secrets Will Be Your Key To Winning The Week!
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
