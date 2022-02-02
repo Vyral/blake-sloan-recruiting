@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: How To Think Clearly In Todays Chaotic World
 date: 2022-02-02 10:43:00
 tags:
   - Training
