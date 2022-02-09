@@ -8,7 +8,7 @@ tags:
   - Lead Conversion
   - Listing Presentation
   - Buyer Prospects
-excerpt: Behind The Scenes Training With Blake Sloan
+excerpt: 'Expert Training From Blake Sloan. '
 enclosure:
 pullquote: They Are Starving To Hear Your Guidance
 enclosure_type: video/mp4
