@@ -4,7 +4,7 @@ title: Long Term Lead Conversion Matrix.
 date: 2022-02-09 15:40:00
 tags:
   - Training
-excerpt:
+excerpt: 'Learn the Proven System To Convert more Leads Into Sales '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
