@@ -14,7 +14,7 @@ pullquote: They Are Starving To Hear Your Guidance
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/template-17.jpg
 youtube_code: https://youtu.be/xid9KhIwy6Y
 ---
 {% include youtube.html %}
