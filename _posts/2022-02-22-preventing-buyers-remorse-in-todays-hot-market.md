@@ -12,11 +12,11 @@ tags:
 excerpt: 'Success In Todays Hot Market '
 enclosure:
 pullquote: 'Psychology Of Decisions '
-enclosure_type: https://youtu.be/BBvkNutN-dI
+enclosure_type:
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/screen-shot-2022-02-22-at-5-02-39-pm.png
-youtube_code:
+youtube_code: https://youtu.be/BBvkNutN-dI
 ---
 {% include youtube.html %}
 
