@@ -15,7 +15,7 @@ pullquote: 'Psychology Of Decisions '
 enclosure_type: https://youtu.be/BBvkNutN-dI
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/screen-shot-2022-02-22-at-5-02-39-pm.png
 youtube_code: https://youtu.be/2_ev9z9mzN4
 ---
 {% include youtube.html %}
