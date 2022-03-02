@@ -15,7 +15,7 @@ pullquote: 'Stopping Old Patterns. '
 enclosure_type:
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/becoming-the-person-you-are-intended-to-be.jpg
+youtube_alternate_image: /uploads/becoming-the-person-you-are-intended-to-be--copy.jpg
 youtube_code: https://youtu.be/BI0nBud9zwc
 ---
 {% include youtube.html %}
