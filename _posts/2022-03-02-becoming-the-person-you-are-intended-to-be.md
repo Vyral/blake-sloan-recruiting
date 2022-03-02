@@ -9,7 +9,7 @@ tags:
   - Listing Presentation
   - Buyer Prospects
   - Competetive Market
-excerpt: 'Success In Todays Hot Market '
+excerpt: 'Moving From Pit To Peak '
 enclosure:
 pullquote: 'Stopping Old Patterns. '
 enclosure_type:
