@@ -6,9 +6,9 @@ tags:
   - Training
   - Real Estate
   - Real Estate Training
-excerpt: Stopping Old Patterns
+excerpt: 'Staying on Top Of Your Game '
 enclosure:
-pullquote: 'Staying on Top Of Your Game '
+pullquote: 'Stopping Old Patterns.  '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
