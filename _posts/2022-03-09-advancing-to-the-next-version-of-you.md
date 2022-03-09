@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Becoming The most Powerful version Of You '
+title: 'Becoming The Most Powerful Version Of You '
 date: 2022-03-09 00:00:00
 tags:
   - Training
