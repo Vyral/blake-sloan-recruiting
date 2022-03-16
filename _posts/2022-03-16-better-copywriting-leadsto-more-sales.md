@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Better Copywriting  LeadsTo More Sales
+title: World's Most Profitable Skill - Copywriting
 date: 2022-03-16 00:00:00
 tags:
-excerpt: 'Product ,Pitch and Packaging '
+excerpt: Product ,Packaging, And Pitch!
 enclosure:
 pullquote: 'Stories Are Avenue Of Connection '
 enclosure_type: video/mp4
