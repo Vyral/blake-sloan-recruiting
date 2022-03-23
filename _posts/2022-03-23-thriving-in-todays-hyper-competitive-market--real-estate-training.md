@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/todays-hyper-competitive-market-copy.jpg
-youtube_code: Thriving In Todays Hyper Competitive Market , Real Estate Training.
+youtube_code: https://youtu.be/u4okbIu54Gk
 ---
 {% include youtube.html %}
 
