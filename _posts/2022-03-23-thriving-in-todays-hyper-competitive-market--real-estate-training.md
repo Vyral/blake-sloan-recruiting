@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Thriving In Todays Hyper Competitive Market , Real Estate Training.
+title: How To WIN In A Hyper-Competitive Market Real Estate Training.
 date: 2022-03-23 16:20:00
 tags:
 excerpt: 'Instant Communication '
