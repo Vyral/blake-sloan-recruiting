@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Double Your Sales Game Now
+title: Double Your Sales Game Now.
 date: 2022-03-30 14:30:00
 tags:
 excerpt: 'Avoiding Triggers '
