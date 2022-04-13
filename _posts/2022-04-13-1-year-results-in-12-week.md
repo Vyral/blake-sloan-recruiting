@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"1 Year Results In 12 Weeks"'
+title: '"1 Year of Results In 12 Weeks"'
 date: 2022-04-13 16:00:00
 tags:
 excerpt: Build Daily And Weekly Habits
