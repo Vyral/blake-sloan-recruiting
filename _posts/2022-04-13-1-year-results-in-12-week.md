@@ -9,7 +9,7 @@ pullquote: Annualized Thinking
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/template-20-copy-3.jpg
+youtube_alternate_image: /uploads/template-20-copy-4.jpg
 youtube_code: https://youtu.be/kj1Srr1j-C4
 ---
 {% include youtube.html %}
