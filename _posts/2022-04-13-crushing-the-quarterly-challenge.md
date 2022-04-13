@@ -5,7 +5,7 @@ date: 2022-04-13 10:25:00
 tags:
 excerpt: Build Daily And Weekly Habits.
 enclosure:
-pullquote: 'Maintain Change And Commitment '
+pullquote: 'Maintain Change And Commitment. '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
