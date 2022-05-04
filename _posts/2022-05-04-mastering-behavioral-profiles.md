@@ -9,7 +9,7 @@ pullquote: '4 Different Behavioral Styles '
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/mastering-behavioral-profiles.jpg
+youtube_alternate_image: /uploads/mastering-behavioral-profiles-copy.jpg
 youtube_code: https://youtu.be/4KNjfwa2JV4
 ---
 {% include youtube.html %}
