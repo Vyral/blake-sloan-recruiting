@@ -5,7 +5,7 @@ date: 2022-05-11 17:00:00
 tags:
 excerpt: '"Emotion Drives Habits"'
 enclosure:
-pullquote: '"Live By A Schedule"'
+pullquote: '"Live By A Schedule."'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
