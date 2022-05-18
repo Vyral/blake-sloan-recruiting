@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Being The Hunter Vs The  Harvester"'
+title: '"Being The Hunter Vs. The  Harvester."'
 date: 2022-05-18 12:45:00
 tags:
 excerpt: '"Patience Of Seduction Vs Panic Of Selling"'
