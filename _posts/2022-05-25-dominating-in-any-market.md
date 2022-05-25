@@ -5,7 +5,7 @@ date: 2022-05-25 14:30:00
 tags:
 excerpt: 'Winning The Market Shift '
 enclosure:
-pullquote: 'Database Inteligence '
+pullquote: Database Inteligence.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
