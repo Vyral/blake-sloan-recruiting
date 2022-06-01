@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/dominating-in-todays-shifting-market-2.jpg
-youtube_code: Dominating In Todays Shifting Market
+youtube_code: https://youtu.be/aqFXfa4NZps
 ---
 {% include youtube.html %}
 
