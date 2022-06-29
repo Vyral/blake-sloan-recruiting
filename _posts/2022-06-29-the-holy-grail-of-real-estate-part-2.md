@@ -3,9 +3,9 @@ layout: post
 title: '"The Holy Grail of Real Estate Part 2"'
 date: 2022-06-29 13:03:00
 tags:
-excerpt: '" Lifetime Client Value'
+excerpt:
 enclosure:
-pullquote: Your Database is Your Quality is Your Business "
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
