@@ -3,7 +3,7 @@ layout: post
 title: '"The Holy Grail of Real Estate Part 2"'
 date: 2022-06-29 13:03:00
 tags:
-excerpt:
+excerpt: '"Real Estate Resource For Life" '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
