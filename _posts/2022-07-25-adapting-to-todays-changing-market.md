@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Adapting To Today''s Changing Market'
+title: '"Adapting To Today''s Changing Market '
 date: 2022-07-25 14:20:00
 tags:
 excerpt: 'Market Knowledge '
