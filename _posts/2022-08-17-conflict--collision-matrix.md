@@ -1,7 +1,7 @@
 ---
 layout: post
 title: '"Conflict & Collision Matrix"'
-date: 2022-08-17 17:10:00
+date: 2022-08-17 17:30:00
 tags:
 excerpt: 'Collide With Confidence '
 enclosure:
