@@ -3,9 +3,9 @@ layout: post
 title: '"Framing Up Your Skills"'
 date: 2022-08-24 09:25:00
 tags:
-excerpt:
+excerpt: 'Always Lead The Way '
 enclosure:
-pullquote: 'Always Lead The Way '
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
