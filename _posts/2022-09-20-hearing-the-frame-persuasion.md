@@ -3,7 +3,7 @@ layout: post
 title: Hearing The Frame Persuasion
 date: 2022-09-20 12:45:00
 tags:
-excerpt: '"The BUY-IN With Real Intentions"'
+excerpt: '"The BUY-IN With True Intentions"'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
