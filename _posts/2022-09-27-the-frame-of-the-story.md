@@ -4,9 +4,9 @@ title: The Frame of the Story
 date: 2022-09-27 17:00:00
 tags:
   - Training
-excerpt:
+excerpt: 'No Story You Can Tell is Better Than Your Own '
 enclosure:
-pullquote: 'No Story You Can Tell is Better Than Your Own '
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
