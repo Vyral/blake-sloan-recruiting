@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Frame of the Story
+title: '"Framing Up Stories That Sell"'
 date: 2022-09-27 17:00:00
 tags:
   - Training
