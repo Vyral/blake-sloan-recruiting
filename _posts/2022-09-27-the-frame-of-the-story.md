@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/framing-your-story-copy.jpg
+youtube_alternate_image: /uploads/framing-your-story-1-copy-2.jpg
 youtube_code: https://youtu.be/O3ow5aev5yg
 ---
 {% include youtube.html %}
