@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Money Is The Best Tool For Success'''
+title: '"Money Is The Best Tool For Success"'
 date: 2022-10-12 11:00:00
 tags:
 excerpt: '"You Are Your # 1 Asset"'
