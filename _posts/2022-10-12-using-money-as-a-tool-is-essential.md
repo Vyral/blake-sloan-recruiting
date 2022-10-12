@@ -3,9 +3,9 @@ layout: post
 title: '"Using Money As A Tool Is Essential"'
 date: 2022-10-12 11:00:00
 tags:
-excerpt:
+excerpt: '"You Are Your # 1 Asset"'
 enclosure:
-pullquote: '"You Are Your # 1 Asset"'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
