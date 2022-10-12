@@ -9,7 +9,7 @@ pullquote: '"You Are Your # 1 Asset"'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/add-a-subheading-6.jpg
+youtube_alternate_image: /uploads/add-a-subheading-6-copy.jpg
 youtube_code: https://youtu.be/ZZpZ01Cnmp0
 ---
 {% include youtube.html %}
