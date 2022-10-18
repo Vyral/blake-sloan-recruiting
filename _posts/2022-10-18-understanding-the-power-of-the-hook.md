@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/understanding-the-power-of-the-hook.jpg
+youtube_alternate_image: /uploads/understanding-the-power-of-the-hook-copy.jpg
 youtube_code: https://youtu.be/YlJ4gm7ijHg
 ---
 {% include youtube.html %}
