@@ -3,9 +3,9 @@ layout: post
 title: '"Understanding The Power Of The Hook"'
 date: 2022-10-18 22:00:00
 tags:
-excerpt:
+excerpt: '"Show People You Trust Them Instead Of Telling Them"'
 enclosure:
-pullquote: '"Show People You Trust Them Instead Of Telling Them"'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
