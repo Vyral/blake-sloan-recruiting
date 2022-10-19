@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Understanding The Power Of The Hook"'
+title: '"Employing Hook''s To Grab Attention"'
 date: 2022-10-18 22:00:00
 tags:
 excerpt: '"Show People You Trust Them Instead Of Telling Them"'
