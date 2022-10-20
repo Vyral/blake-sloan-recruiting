@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"4 Secret Hacks For Lead Conversions"'
+title: '"4 Secret Hacks For Lead Conversion"'
 date: 2022-10-18 22:00:00
 tags:
 excerpt: '"Show People You Trust Them Instead Of Telling Them"'
