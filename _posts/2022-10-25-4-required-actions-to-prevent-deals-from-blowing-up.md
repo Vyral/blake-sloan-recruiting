@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"4 Required Actions To Prevent Deals From Blowing Up"'
+title: '"Preventing Deals From Blowing Up, 4 Things You Must Know"'
 date: 2022-10-25 12:00:00
 tags:
 excerpt:
