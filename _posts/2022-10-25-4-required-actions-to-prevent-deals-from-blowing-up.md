@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/preventing-deals-from-blowing-up-4-must-know-secrets.jpg
+youtube_alternate_image: /uploads/preventing-deals-from-blowing-up-4-must-know-secrets-1.jpg
 youtube_code: https://youtu.be/KHly5F4UYCs
 ---
 {% include youtube.html %}
