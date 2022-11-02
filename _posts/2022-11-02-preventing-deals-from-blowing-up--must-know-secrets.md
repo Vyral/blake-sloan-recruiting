@@ -1,0 +1,19 @@
+---
+layout: post
+title: '"preventing Deals From Blowing Up, $ Must Know Secrets"'
+date: 2022-11-02 12:00:00
+tags:
+excerpt:
+enclosure:
+pullquote: 'Talk About The Big Picture, Not The Small Things '
+enclosure_type: video/mp4
+enclosure_time:
+use_youtube_image: true
+youtube_alternate_image: /uploads/preventing-deals-from-blowing-up-4-must-know-secrets-3.jpg
+youtube_code: https://youtu.be/KHly5F4UYCs
+---
+{% include youtube.html %}
+
+{% include pullquote.html %}
+
+{% include events-cta.html %} {% include join-our-team-cta.html %}
