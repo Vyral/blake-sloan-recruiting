@@ -9,7 +9,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/stop-blowing-up-deals-in-4-easy-steps-copy-2.jpg
+youtube_alternate_image: /uploads/preventing-deals-from-blowing-up-4-must-know-secrets.jpg
 youtube_code: https://youtu.be/KHly5F4UYCs
 ---
 {% include youtube.html %}
