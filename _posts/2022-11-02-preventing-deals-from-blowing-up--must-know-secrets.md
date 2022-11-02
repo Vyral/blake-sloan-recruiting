@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"preventing Deals From Blowing Up, 4 Must Know Secrets"'
+title: '"Preventing Deals From Blowing Up, 4 Must Know Secrets"'
 date: 2022-11-02 12:00:00
 tags:
 excerpt:
