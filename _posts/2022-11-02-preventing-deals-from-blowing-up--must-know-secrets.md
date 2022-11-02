@@ -5,7 +5,7 @@ date: 2022-11-02 12:00:00
 tags:
 excerpt:
 enclosure:
-pullquote: 'Talk About The Big Picture, Not The Small Things '
+pullquote: '"Talk About The Big Picture, Not The Small Things "'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
