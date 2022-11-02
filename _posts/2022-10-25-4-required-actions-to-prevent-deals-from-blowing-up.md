@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Preventing Deals From Blowing Up, 4 Things You Must Know"'
+title: '"Preventing Deals From Blowing Up, 4 Must Know Secrets""'
 date: 2022-10-25 12:00:00
 tags:
 excerpt: '"Talk About The Big Picture Not The Small Things"s '
