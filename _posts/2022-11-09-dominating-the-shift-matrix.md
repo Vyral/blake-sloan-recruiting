@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Dominating The Shift Matrix"'
+title: '"Surviving The Shift"'
 date: 2022-11-09 16:00:00
 tags:
 excerpt: '"Massive Self Discipline"'
