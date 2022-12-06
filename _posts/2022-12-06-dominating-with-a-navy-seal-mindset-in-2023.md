@@ -5,7 +5,7 @@ date: 2022-12-06 13:00:00
 tags:
 excerpt:
 enclosure:
-pullquote: 'Relentless Consistency '
+pullquote: '"Relentless Consistency "'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
