@@ -3,9 +3,9 @@ layout: post
 title: Dominating With A Navy Seal Mindset In 2023
 date: 2022-12-06 13:00:00
 tags:
-excerpt:
+excerpt: '"Relentless Consistency "'
 enclosure:
-pullquote: '"Relentless Consistency "'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
