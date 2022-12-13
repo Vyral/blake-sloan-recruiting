@@ -3,9 +3,9 @@ layout: post
 title: '"The Holy Grail Of Referrals"'
 date: 2022-12-13 14:30:00
 tags:
-excerpt:
+excerpt: '"Plant The Seed of Referrals From The Start"'
 enclosure:
-pullquote: '"Plant The Seed of Referrals From The Start"'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
