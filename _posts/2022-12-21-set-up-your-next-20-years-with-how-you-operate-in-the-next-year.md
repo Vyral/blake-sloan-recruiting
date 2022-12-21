@@ -3,9 +3,9 @@ layout: post
 title: Set Up Your Next 20 Years With How You Operate in The Next Year
 date: 2022-12-21 12:00:00
 tags:
-excerpt:
+excerpt: '"Rise To The Top Of The Mountain"'
 enclosure:
-pullquote: '"Stay laser Focused"'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
