@@ -5,7 +5,7 @@ date: 2022-12-27 16:25:00
 tags:
 excerpt: '" Why Some Agents Have More Success Than Others"'
 enclosure:
-pullquote: '" Why Some Agents Have More Success Than Others"'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
