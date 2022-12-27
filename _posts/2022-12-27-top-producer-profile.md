@@ -3,9 +3,9 @@ layout: post
 title: '"Top Producer Profile" '
 date: 2022-12-27 16:25:00
 tags:
-excerpt:
+excerpt: '" Why Some Agents Have More Success Than Others"'
 enclosure:
-pullquote: '" Why Some Agents Have More Success Than Others"s'
+pullquote: '" Why Some Agents Have More Success Than Others"'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
