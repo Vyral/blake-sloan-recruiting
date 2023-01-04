@@ -3,9 +3,9 @@ layout: post
 title: '"Staying In The Fight"'
 date: 2023-01-04 12:03:00
 tags:
-excerpt:
+excerpt: '"You Must Find The Patterns Of Behavior For Endurance"'
 enclosure:
-pullquote: '"You Must Find The Patterns Of Behavior For Endurance"'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
