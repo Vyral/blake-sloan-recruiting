@@ -3,7 +3,7 @@ layout: post
 title: '"The Hook; The Most Important Part Of The Copywriting Process"'
 date: 2023-01-11 14:00:00
 tags:
-excerpt: '"People Judge You On How You Communicate"'
+excerpt: '"Stopping The Scroll"'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
