@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Copywriting; Your Most Profitable Skill"'
+title: '"The Hook; The Most Important Part Of The Copywriting Process"'
 date: 2023-01-11 14:00:00
 tags:
 excerpt: '"People Judge You On How You Communicate"'
