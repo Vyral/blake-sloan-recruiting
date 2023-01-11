@@ -3,7 +3,7 @@ layout: post
 title: '"Copywriting; Your Most Profitable Skill"'
 date: 2023-01-11 14:00:00
 tags:
-excerpt: '"People judge You On How You Communicate"'
+excerpt: '"People Judge You On How You Communicate"'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
