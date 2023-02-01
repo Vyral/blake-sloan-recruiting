@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Dominating Your Social Status"'
+title: '"The Power Of First Impressions: A Guide To Closing More Deals"'
 date: 2023-01-18 10:15:00
 tags:
 excerpt: '"You Are Being Judged From The Very Beginning"'
