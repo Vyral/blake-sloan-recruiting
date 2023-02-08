@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Having The Discipline To Do Whats Required In 23
+title: '"Having The Discipline To Do Whats Required In 2023"'
 date: 2023-02-08 13:00:00
 tags:
 excerpt: '"You Can Prepare To Win Or Prepare To Lose To Someone Who Is"s'
