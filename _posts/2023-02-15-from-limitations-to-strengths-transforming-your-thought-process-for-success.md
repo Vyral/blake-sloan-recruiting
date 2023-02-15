@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"From Limitations To Strengths: Transforming Your Thought Process for Success"'
+title: '"From Limitations To Strengths: Transforming Your Thought Process For Success"'
 date: 2023-02-15 14:30:00
 tags:
 excerpt: '"How Do You Program Past Clients To Send You Referals"'
