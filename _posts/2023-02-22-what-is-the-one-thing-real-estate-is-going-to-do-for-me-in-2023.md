@@ -3,7 +3,9 @@ layout: post
 title: What Is The One Thing Real Estate Is Going To Do For Me In 2023
 date: 2023-02-22 00:00:00
 tags:
-excerpt:
+excerpt: >-
+  Having Commitments Compared To Simply Having A Goal Is More Powerful Because
+  It Makes You More Accountable To Yourself. 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
