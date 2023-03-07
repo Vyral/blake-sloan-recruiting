@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: 'Maximizing Progress in 23:  4 Keys to Achieve Success in a Changing Landscape'
 date: 2023-03-07 16:00:00
 tags:
 excerpt: '"Consistency: How I Do One Thing Is how I Do All"ll'
