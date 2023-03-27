@@ -15,6 +15,3 @@ youtube_code:
 {% include youtube.html %}
 
 {% include pullquote.html %}
-
-{% include events-cta.html %}
-{% include join-our-team-cta.html %}
