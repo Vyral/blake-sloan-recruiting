@@ -1,9 +1,9 @@
 ---
 layout: post
-title: '"Facts vs Truth: Reprogramming Your Mind"'
+title: "Facts vs Truth: Reprogramming Your Mind"
 date: 2023-03-21 16:00:00
 tags:
-excerpt: '"Am I Being Someone Who Is A Top Producer? "'
+excerpt: "Am I Being Someone Who Is A Top Producer? "
 enclosure:
 pullquote:
 enclosure_type: video/mp4
