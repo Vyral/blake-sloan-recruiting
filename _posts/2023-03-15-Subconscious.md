@@ -18,4 +18,6 @@ youtube_code: https://youtu.be/FceNc0WzPIo
 
 {% include pullquote.html %}
 
-{% include events-cta.html %} {% include join-our-team-cta.html %}
+{% include events-cta.html %}
+
+{% include join-our-team-cta.html %}
