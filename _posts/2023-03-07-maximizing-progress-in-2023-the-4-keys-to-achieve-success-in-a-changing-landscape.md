@@ -17,4 +17,6 @@ youtube_code: https://youtu.be/tmCafFWdepw
 
 {% include pullquote.html %}
 
-{% include events-cta.html %} {% include join-our-team-cta.html %}
+{% include events-cta.html %}
+
+{% include join-our-team-cta.html %}
