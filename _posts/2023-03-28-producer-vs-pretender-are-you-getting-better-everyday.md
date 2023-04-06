@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Producer vs Pretender: Are You Getting Better Everyday?'
-date: 2023-03-28 15:01:00
+date: 2023-03-28 15:00:00
 tags:
 excerpt: Understanding What Winners Do
 enclosure:
