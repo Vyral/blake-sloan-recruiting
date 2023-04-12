@@ -3,7 +3,7 @@ layout: post
 title: '"The Top 6 Most Important Qualities Realtors Need To Be Successful"'
 date: 2023-04-12 11:30:00
 tags:
-excerpt: You lose so many deals with lack of communication
+excerpt: '"You lose so many deals with lack of communication"'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
