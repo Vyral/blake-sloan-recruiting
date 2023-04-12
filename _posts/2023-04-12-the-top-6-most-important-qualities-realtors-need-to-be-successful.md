@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Top 6 Most Important Qualities Realtors Need To Be Successful '
-date:
+date: 2023-04-12 12:00:00
 tags:
 excerpt: You lose so many deals with lack of communication
 enclosure:
