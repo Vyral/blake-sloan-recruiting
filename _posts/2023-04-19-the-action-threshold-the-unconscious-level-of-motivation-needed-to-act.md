@@ -1,9 +1,11 @@
 ---
 layout: post
-title: The Action Threshold, The Unconscious level Of Motivation Needed To Act
+title: '"The Action Threshold, The Unconscious level Of Motivation Needed To Act"'
 date: 2023-04-19 10:00:00
 tags:
-excerpt:
+excerpt: >-
+  9% Of Communication Is Words The Other 91% Is Based On Tonality and Body
+  Language. 
 enclosure:
 pullquote:
 enclosure_type: video/mp4
