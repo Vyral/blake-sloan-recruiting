@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Winning By Showing What You Have Learned And Earned"'
+title: '"Using Real Experiences To Win More With Clients"'
 date: 2023-05-24 11:35:00
 tags:
 excerpt: >-
