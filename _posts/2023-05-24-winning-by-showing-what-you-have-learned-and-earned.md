@@ -3,9 +3,7 @@ layout: post
 title: '"Using Real Experiences To Win More With Clients"'
 date: 2023-05-24 11:35:00
 tags:
-excerpt: >-
-  People Will Discount Your Value and Presentation Until They Understand What
-  You Have Learned And Earned 
+excerpt: ' People Will Discount Your Value and Presentation Until They Understand What You Have Learned And Earned To Get To Your Place In The Business.'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
