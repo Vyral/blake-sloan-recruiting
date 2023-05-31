@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '" The First 4 Seconds: The Game-Changing Factors For Successful Interactions"'
+title: '"The First 4 Seconds: The Game-Changing Factors For Successful Interactions"'
 date: 2023-05-31 16:00:00
 tags:
 excerpt: People Are Running Unconscious Dialog Against You While You Are Presenting.
