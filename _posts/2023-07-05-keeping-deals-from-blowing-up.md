@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Keeping Deals From Blowing Up
+title: '"Keeping Deals From Blowing Up"'
 date: 2023-07-05 10:40:00
 tags:
 excerpt: >-
