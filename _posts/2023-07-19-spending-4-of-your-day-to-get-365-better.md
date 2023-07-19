@@ -3,7 +3,7 @@ layout: post
 title: '"Spending 4% Of Your Day To Get 365% Better"'
 date: 2023-07-19 15:00:00
 tags:
-excerpt: 'What Is The Story You Are Telling Yourself To Justify Not Getting Better? '
+excerpt: Is It Worth 4% Of My Day To Get The Life I Want To Have.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
