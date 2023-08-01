@@ -3,7 +3,7 @@ layout: post
 title: 'How Body Language an Improve Success '
 date: 2023-08-01 12:00:00
 tags:
-excerpt: 98% Of All Communication Is Nonverbal
+excerpt: 98% Of All Communication Is Nonverbal.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
