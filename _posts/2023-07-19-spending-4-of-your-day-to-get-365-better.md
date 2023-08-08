@@ -2,7 +2,6 @@
 layout: post
 title: '"Spending 4% Of Your Day To Get 365 Times Better"'
 date: 2023-07-19 15:00:00
-tags:
 excerpt: Is It Worth 4% Of My Day To Get The Life I Want To Have.
 enclosure:
 pullquote:

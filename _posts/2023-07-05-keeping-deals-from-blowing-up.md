@@ -2,7 +2,6 @@
 layout: post
 title: '"Keeping Deals From Blowing Up"'
 date: 2023-07-05 10:40:00
-tags:
 excerpt: >-
   "It Starts With Your Relationship WIth Your Client And  Maintaining The
   Psychology Of Your Client."
