@@ -2,7 +2,9 @@
 layout: post
 title: '"Becoming An Expert C.L.O.S.E.R."'
 date: 2023-08-08 13:00:00
-excerpt:
+excerpt: >-
+  C.L.O.S.E.R. Is The Framework For All First Interactions With Potential
+  Clients.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
