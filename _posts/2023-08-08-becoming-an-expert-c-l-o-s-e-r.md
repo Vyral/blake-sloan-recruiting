@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Becoming An Expert C.L.O.S.E.R
+title: '"Becoming An Expert C.L.O.S.E.R."'
 date: 2023-08-08 13:00:00
 excerpt:
 enclosure:
