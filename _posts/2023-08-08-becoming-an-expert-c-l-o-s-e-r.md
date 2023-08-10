@@ -9,7 +9,7 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/becoming-an-expert-c-l-o-s-e-r.png
 youtube_code: https://youtu.be/YgsKTgCGCvY
 ---
