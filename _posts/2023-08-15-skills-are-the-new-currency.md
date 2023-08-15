@@ -1,6 +1,6 @@
 ---
 layout: post
-title:
+title: The 9 Skills That Payoff For Life
 date: 2023-08-15 15:30:00
 excerpt: Skills Are The New Currency
 enclosure:
