@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Skills Are The New Currency
+title: Skills Are The New Currency.
 date: 2023-08-15 15:30:00
 excerpt: Show Up And Put On A Show Worth Paying For.
 enclosure:
