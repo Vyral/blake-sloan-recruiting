@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breaking Down The Objection Matrix
+title: How To Overcome ANY Objections Instantly
 date: 2023-08-21 14:54:00
 excerpt: All Objections Need To Be Handled Early And Often.
 enclosure:
