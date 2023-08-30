@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using Psychology To Help The Mind Visualize And Make Results Real.
+title: 9 Power Questions & Deep Sales Psychology To Influence Sales
 date: 2023-08-29 16:14:00
 excerpt: >-
   The Better You Are At Handling Upset And Stressed Out People The Better You
