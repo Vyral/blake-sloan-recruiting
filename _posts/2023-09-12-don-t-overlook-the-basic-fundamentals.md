@@ -2,7 +2,7 @@
 layout: post
 title: '"Don''t Overlook The Basic Fundamentals"'
 date: 2023-09-12 16:00:00
-excerpt: 'Lifetime Value '
+excerpt: Missing Out On The Basic Fundamentals Will Cost You Future Business.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
