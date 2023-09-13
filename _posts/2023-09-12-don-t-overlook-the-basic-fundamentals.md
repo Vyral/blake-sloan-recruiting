@@ -1,8 +1,10 @@
 ---
 layout: post
-title: '"Don''t Overlook The Basic Fundamentals"'
+title: '"How To 10X Your Referral Business"'
 date: 2023-09-12 16:00:00
-excerpt: Missing Out On The Basic Fundamentals Will Cost You Future Business.
+excerpt: >-
+  Referrals Are The Holy Grail Of Real Estate. 20% Of Past Clients Bring You 80%
+  Of Referrals.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
