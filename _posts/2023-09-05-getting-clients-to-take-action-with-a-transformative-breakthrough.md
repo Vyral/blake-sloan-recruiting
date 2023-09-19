@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Getting Clients To Take Action With A Transformative Breakthrough
+title: 'Unleash Your Mind’s Magic: Conquering Negativity'
 date: 2023-09-05 14:51:00
 excerpt: The Way To Get People To Get and Stay On The Horse Is By Finding Their Pain.
 enclosure:
