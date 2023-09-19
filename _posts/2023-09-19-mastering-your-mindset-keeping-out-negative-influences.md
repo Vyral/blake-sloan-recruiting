@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mastering Your Mindset: Keeping Out Negative Influences'
+title: 'Unleash Your Mind’s Magic: Conquering Negativity'
 date: 2023-09-19 15:44:00
 excerpt: >-
   Build A Lab Inside Your Head That Nothing Can Infiltrate. Never Let Anything
