@@ -2,7 +2,7 @@
 layout: post
 title: Upgrading Your Database Intelligence
 date: 2023-10-24 15:00:00
-excerpt: '"Database Intelligence Is Your Best Leverage For Your Business"'
+excerpt: Database Intelligence Is Your Best Leverage For Your Business
 enclosure:
 pullquote:
 enclosure_type: video/mp4
