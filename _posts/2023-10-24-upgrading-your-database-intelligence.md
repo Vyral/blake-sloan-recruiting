@@ -2,7 +2,7 @@
 layout: post
 title: Upgrading Your Database Intelligence
 date: 2023-10-24 15:00:00
-excerpt: Database Intelligence Is The Best Leverage For Your Business
+excerpt: 'Your #1 Problem Right Now Is Your Database Intelligence'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
