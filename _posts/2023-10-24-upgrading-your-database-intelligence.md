@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Upgrading Your Database Intelligence
+title: Why You Are Losing In Your Follow Up
 date: 2023-10-24 15:00:00
 excerpt: 'Your #1 Problem Right Now Is Your Database Intelligence'
 enclosure:
