@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The S & ME 500: Investing In YOURSELF To Win In A Marketplace of Change'
+title: Will You Win Or Lose In 2024?
 date: 2023-10-31 16:45:00
 excerpt: >-
   The Market Is Changing, The Heard Is Thinning. You Must Change To Win In A
