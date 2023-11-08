@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gaining An Entrepreneur's Mindset
+title: Agent to CEO
 date: 2023-11-07 14:35:00
 excerpt: >-
   Have An Entrepreneur's Mindset. Know That Your Output Directly Impacts Your
