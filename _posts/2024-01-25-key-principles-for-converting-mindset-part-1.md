@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Key Principles for Converting Mindset: Part 1'
+title: Key Principles for Strategic Seduction Part 1
 date: 2024-01-25 17:41:00
 excerpt: People Love To Buy But Hate To Be Sold.
 enclosure:
