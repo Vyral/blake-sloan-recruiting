@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 'The NAR Settlement Matrix Part 1: Economics and Benefits'
-date: 2024-04-02 16:13:00
+title: 'The NAR Settlement Matrix Part 1: How To Win In This New Game!'
+date: 2024-04-03 10:38:00
 excerpt: >-
   Right Now Everyone Wants An Expert, Someone They Can Trust, and Someone Who
-  Can Guide Them Through The Chaos
+  Can Guide Them Through The Chaos.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
