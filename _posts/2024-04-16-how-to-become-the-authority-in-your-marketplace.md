@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Mastering Your Skill Set To Become The Authority In Today's Marketplace
-date: 2024-04-16 15:19:00
+title: How To Become The Authority In Your Marketplace
+date: 2024-04-16 16:23:00
 excerpt: >-
-  Am I The Authority Piece in 2024? To Become That You Need To Take A Stand
+  Are You The Authority Piece in 2024? To Become That You Need To Take A Stand
   About What Is Happening In The Market.
 enclosure:
 pullquote:
