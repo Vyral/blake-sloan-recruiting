@@ -1,8 +1,8 @@
 ---
 layout: post
-title: The 5 Steps To More Successful Calls
-date: 2024-05-07 15:36:00
-excerpt: What Can You Do To Have Better Calls?
+title: 5 Steps To Closing Better On The Phone
+date: 2024-05-08 17:21:00
+excerpt: 'What Can You Do To Have Better Calls? '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
