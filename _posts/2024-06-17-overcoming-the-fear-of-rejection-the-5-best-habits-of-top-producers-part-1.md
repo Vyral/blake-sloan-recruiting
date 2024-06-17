@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The 5 Best Habits Of Top Producers Part 1: Overcoming The Fear Of Rejection'
-date: 2024-06-04 16:09:00
+title: 'Overcoming The Fear Of Rejection: The 5 Best Habits Of Top Producers Part 1'
+date: 2024-06-17 16:16:00
 excerpt: >-
   The #1 Thing That Stops Sales People Is The Fear Of Rejection. What Sets
   People Apart Are Their Attributes And Habits.
