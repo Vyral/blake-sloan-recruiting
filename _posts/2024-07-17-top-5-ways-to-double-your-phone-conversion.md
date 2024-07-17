@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Achieving Your Ultimate Outcome: Through Awareness And Transformation'
-date: 2024-07-16 09:28:00
-excerpt: 'Awareness Breeds Transformation, Transformation Is The Ultimate Outcome. '
+title: Top 5 Ways To Double Your Phone Conversion
+date: 2024-07-17 16:00:00
+excerpt: Awareness Breeds Transformation, Transformation Is The Ultimate Outcome.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
