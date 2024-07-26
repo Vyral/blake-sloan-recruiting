@@ -3,7 +3,7 @@ layout: post
 title: Targeting Emotion To Trigger Action And Close More Deals
 date: 2024-07-23 11:46:00
 excerpt: >-
-  Logic Is Education And Date. Logic Gets People To Think. Emotion Gets People
+  Logic Is Education And Data. Logic Gets People To Think. Emotion Gets People
   To Take Action.
 enclosure:
 pullquote:
