@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Controlling The Narrative: Avoiding A Communication Breakdown'
-date: 2024-08-13 14:15:00
-excerpt: Most Breakdowns Come From Not Over Communicating.
+title: 'How To Fix The #1 Problem With Your Clients'
+date: 2024-08-14 15:45:00
+excerpt: 'Most Breakdowns Come From Not Over Communicating. '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
