@@ -2,7 +2,7 @@
 layout: post
 title: How To Fix Your Phone Conversion With One Magic Phrase
 date: 2024-08-20 12:38:00
-excerpt: '"Before You Hang Up On Me, I Have Some Important Information..." '
+excerpt: '"Before You _________, I Have Some _____ ________..."'
 enclosure:
 pullquote:
 enclosure_type: video/mp4
