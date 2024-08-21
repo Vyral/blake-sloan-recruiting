@@ -2,7 +2,7 @@
 layout: post
 title: How To Fix Your Phone Conversion With One Magic Phrase
 date: 2024-08-20 12:38:00
-excerpt: '"Before You _________, I Have Some _____ ________..."'
+excerpt: '"Before You _________, I Have Some _____ ________ For You" '
 enclosure:
 pullquote:
 enclosure_type: video/mp4
