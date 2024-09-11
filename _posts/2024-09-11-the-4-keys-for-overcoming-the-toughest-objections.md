@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The 4 Best Tools For An Empowered State
-date: 2024-09-10 12:23:00
+title: The 4 Keys For Overcoming The Toughest Objections
+date: 2024-09-11 10:16:00
 tags:
 excerpt: >-
   If You Carry Yourself In A State Of Fear And Uncertainty You Will Not Be Able
-  To Succeed.
+  To Succeed. 
 enclosure:
 pullquote: >-
   If You Carry Yourself In A State Of Fear And Uncertainty You Will Not Be Able
