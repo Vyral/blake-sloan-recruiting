@@ -11,14 +11,14 @@ enclosure:
 pullquote: >-
   You Must Show Up With Hard Work And Skillset Way Past The Point Of Being
   Boring. If You Consistent With Your Hard Work, Intentionally Developing Your
-  Skillset,  You Will Reach The Place Of Massive Success. 1. Hard Work. How Hard
+  Skillset, You Will Reach The Place Of Massive Success. 1. Hard Work. How Hard
   Do You Work? Your Success Has A Direct Correlation With The Lowest 100 Days
   You Did The Entire Year.  You're Never Going to Be Successful At A High Level
   Without Working Hard.  2. Skillset. What Is Your Intentional Development Of
   Your Skillset?  Personal Development Comes From Learning From Others,
   Podcasts, Stories, Videos, Etc.  Learn From Your Mistakes. Practice To Make
   Yourself Better And Not Repeat Those Mistakes. Skills First, The Opportunity. 
-  You Have To Constantly Ask Yourself: "How Good Am I?" 3.Time. The Business In
+  You Have To Constantly Ask Yourself: "How Good Am I?" 3. Time. The Business In
   General Takes Time To Get Good. You Have To Have Aggressive Patience. Everyone
   Wants To Rush The Process, But You Can't Change The Process.  Sometimes It All
   Just Takes Time. Nothing Great Has Ever Happened Without A High Level Of
