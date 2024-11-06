@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'The Biggest Achillies Heel In Your Business Part 1: Blow Ups'
-date: 2024-11-05 16:36:00
+title: 'The #1 Deal Killer In Your Business'
+date: 2024-11-06 15:47:00
 tags:
 excerpt: >-
   The #1 Cause Of Blow Ups Is Not Setting Expectations. Tell Your Clients What
