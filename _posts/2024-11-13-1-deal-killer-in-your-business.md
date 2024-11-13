@@ -1,7 +1,7 @@
 ---
 layout: post
-title: '#1 Deal Killer In Your Business Part 2'
-date: 2024-11-12 15:40:00
+title: '#1 Deal Killer In Your Business'
+date: 2024-11-13 17:08:00
 tags:
 excerpt: Once You Are Under Contract You Have To Go Back To Preframe.
 enclosure:
