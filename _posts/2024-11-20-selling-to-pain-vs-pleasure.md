@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Focusing On The Pain To Get Clients To Take Action
-date: 2024-11-19 16:10:00
+title: Selling To Pain vs Pleasure
+date: 2024-11-20 17:20:00
 tags:
 excerpt: >-
   Humans Are 90% Driven By Pain. They Will Do More to Avoid Pain Than To Find
