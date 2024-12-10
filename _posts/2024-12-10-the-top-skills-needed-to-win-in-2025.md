@@ -20,7 +20,13 @@ pullquote: >-
   When Things Are Slower Is When You Need To Work Harder. As Things Pick Back Up
   Those That Have Washed Out Leave More Opportunities For You and The Rewards
   Will Be Greater On The Backend. Ask Yourself How Much Accountability Do I Need
-  And Who Is Going To Help Me?
+  And Who Is Going To Help Me? Get Yourself An Accountability Buddy. Have
+  Someone Ready To Call You Out When You Don't Show Up Or Honor Your Word. But
+  You Have To Share With Them You Commitments And Your Desire To Be Successful.
+  There Is Power In Being Able To Declare What Your Commitments Are. Now Is The
+  Time To Buckle Down And Start Prepping For 2025. You Are Going To See A Lot Of
+  Other Agents Wash Out And You Have To Be Committed To Yourself To Work Harder
+  And Take That Market Share.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
