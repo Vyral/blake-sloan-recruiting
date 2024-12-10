@@ -19,7 +19,8 @@ pullquote: >-
   Capture Their Market Share.  You Must Have Patients To Play The Long Game.
   When Things Are Slower Is When You Need To Work Harder. As Things Pick Back Up
   Those That Have Washed Out Leave More Opportunities For You and The Rewards
-  Will Be Greater On The Backend. 
+  Will Be Greater On The Backend. Ask Yourself How Much Accountability Do I Need
+  And Who Is Going To Help Me?
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
