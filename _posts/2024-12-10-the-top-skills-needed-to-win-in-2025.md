@@ -9,7 +9,9 @@ excerpt: >-
 enclosure:
 pullquote: >-
   Do As Much Training, Role-Playing As Possible, And Watch Videos To Invest In
-  Your Mind's Bank Balance. That Way You Are Ready Before You Need It. 
+  Your Mind's Bank Balance. That Way You Are Ready Before You Need It. Find 3
+  Non-Negotiables You Must Commit To. The More In Advance You Commit The More
+  Prepared You Are To Overcome Feelings That Can Get In The Way. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
