@@ -14,7 +14,9 @@ pullquote: >-
   Prepared You Are To Overcome Feelings That Can Get In The Way. What Hurts
   People At The End Of The Year Is Apathy. Apathy Is Deadly. Once You Fall
   Behind And Dig Yourself Into A Hole It Is Hard To Get Out Of It. You Have To
-  Let Go Of Those Distractions And Keep Pushing. 
+  Let Go Of Those Distractions And Keep Pushing.As Other Agents Are Leaving The
+  Market Because Sales Are Down You Have To Put The Peddle To The Metal And
+  Capture Their Market Share.  
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
