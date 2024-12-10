@@ -7,7 +7,9 @@ excerpt: >-
   What Are You Going to Commit To Make Sure You Have The Strongest Mindset In
   2025. 
 enclosure:
-pullquote:
+pullquote: >-
+  Do As Much Training, Role-Playing As Possible, And Watch Videos To Invest In
+  Your Mind's Bank Balance. That Way You Are Ready Before You Need It. 
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
