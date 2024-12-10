@@ -8,7 +8,7 @@ excerpt: >-
   2025. 
 enclosure:
 pullquote: >-
-  What Are You Going to Commit To Make Sure You Have The Strongest Mindset In
+  "What Are You Going to Commit To Make Sure You Have The Strongest Mindset In
   2025.   Do As Much Training, Role-Playing As Possible, And Watch Videos To
   Invest In Your Mind's Bank Balance. That Way You Are Ready Before You Need
   It.   Find 3 Non-Negotiables You Must Commit To. The More In Advance You
@@ -27,7 +27,7 @@ pullquote: >-
   Your Desire To Be Successful. There Is Power In Being Able To Declare What
   Your Commitments Are. Now Is The Time To Buckle Down And Start Prepping For
   2025. You Are Going To See A Lot Of Other Agents Wash Out And You Have To Be
-  Committed To Yourself To Work Harder And Take That Market Share.
+  Committed To Yourself To Work Harder And Take That Market Share."
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
