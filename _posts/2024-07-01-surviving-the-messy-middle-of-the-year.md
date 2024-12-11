@@ -15,7 +15,7 @@ pullquote: >-
   Come They Will Not Be Prepared.  The #1 Way To Die In Business Is To Race To
   The Bottom. Ability And Skillset With Your Script Will Be A Huge Factor In
   Your Success Going Forward. In The Next 60-70 Days The One Main Objection And
-  Misconception You Will Face Is "I Do Not Need A Buyer's Agent".  Show Them You
+  Misconception You Will Face Is I Do Not Need A Buyer's Agent.  Show Them You
   Are More Than An Order Taker. You Have To Be Able To Articulate Your Value To
   Fight The Misconceptions Coming Out Of The Lawsuit. Show Clients What Sets You
   Apart From The Competition. You Must Be Able To Collide With Your Clients And
