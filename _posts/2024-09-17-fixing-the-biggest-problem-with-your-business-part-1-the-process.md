@@ -14,8 +14,8 @@ pullquote: >-
   Are Attentive And That You Care About The Person You Are Talking To.  There Is
   4x Difference Of Comprehension From People If You Show Them Something Vs
   Telling Them.  The #1 Reason Deals Fall Apart Is Because Of Buyer's Remorse.
-  You Have To Reassure Them They Made The Right Decision.  "The Average Home
-  Owner Has A Net Worth 43x Higher Than The Average Renter." Clients Are More
+  You Have To Reassure Them They Made The Right Decision.  The Average Home
+  Owner Has A Net Worth 43x Higher Than The Average Renter. Clients Are More
   Likely To Sign In Person Than They Are Virtually. Meet In Person As Much As A
   Possible.  Ask Yourself Why Do You Not Stick To The Things That You Know Will
   Work And What Story Are You Telling Yourself To Justify It.  You Get 3
