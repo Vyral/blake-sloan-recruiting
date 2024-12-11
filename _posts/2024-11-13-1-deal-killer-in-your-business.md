@@ -13,8 +13,8 @@ pullquote: >-
   Don't Be Afraid Of Conflict. The More You Avoid Conflict The Broker You Will
   Be.  The Target Rate For Fall-Throughs is 1 Out Of 10. You Have To Analyze
   What Happened On A Blow Up To See What You Could Have Done Differently.  Ask
-  Yourself What Could I Have Done Differently To Prevent This From Happening?. 
-  If You Believe That There Was Nothing Else You Could Have Done Ask Yourself Is
+  Yourself What Could I Have Done Differently To Prevent This From Happening? If
+  You Believe That There Was Nothing Else You Could Have Done Ask Yourself Is
   There Anyone Else On This Planet That Could Have Got This Done? Though The
   Answer Is Always YES.  You Have To Get In Front Of Any Potential Issues That
   May Come Up During The Process And Communicate What To Expect. The More
