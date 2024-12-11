@@ -15,7 +15,7 @@ pullquote: >-
   Clients On Track. Attack The Doubt, Quit Reacting.  Use Your Energy To
   Transfer Certainity To Your Clients. Turn Their Pain Into Pleasure. Take Them
   From The Pit To The Peak.  Use Facts To Back Up What You Are Saying. For
-  Example "Home Owners Have 43 Times More Wealth Than Renters Do".   Be Prepared
+  Example Home Owners Have 43 Times More Wealth Than Renters Do.   Be Prepared
   To Manage Outside Influences. Any Doubt About You Will Come From An Outside
   Source.  Advice Is Worth What You Are Willing To Pay For It.  Managing
   Expectations From The Start And Using Your Positive Energy Will Keep Clients
