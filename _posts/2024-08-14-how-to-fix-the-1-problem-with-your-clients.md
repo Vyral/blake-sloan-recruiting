@@ -10,8 +10,8 @@ pullquote: >-
   Don't Be Afraid To Over Explain The Process.  Set Yourself Up To Be Able To
   Have A Collison Based On How You Communicate.  Tell Clients What They Need To
   Hear Not What They Want To Hear.  Master The Art Of Having Collisions With
-  Love. "I Care About You And The Outcome But..."  I Cannot Let Myself Get Weak
-  Or Be Afraid. Action Cures Fear.   Always Stay 3 Steps Ahead. Be Prepared For
+  Love. I Care About You And The Outcome But...  I Cannot Let Myself Get Weak Or
+  Be Afraid. Action Cures Fear.   Always Stay 3 Steps Ahead. Be Prepared For
   What Is Coming. Communicate To Your Clients What Is Coming To Avoid A
   Reaction. You Can Not Communicate Enough. The More You Prepare Your Client For
   What Is Coming The Better You Will Be Able To Control The Reactions. 
