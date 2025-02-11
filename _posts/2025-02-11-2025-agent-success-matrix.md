@@ -10,8 +10,8 @@ excerpt: >-
   A Deep Dive Into The Most Important Element For Success In The Industry:
   Consistency. Whether You're Just Starting Out or a Seasoned Agent, The Key to
   Growth is Showing Up, Staying Organized, and Sticking to Your Daily Routines
-enclosure:
-pullquote: '"It''s Much Easier To Keep Up Than To Catch Up"'
+enclosure: '"It''s Much Easier To Keep Up Than To Catch Up"'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
