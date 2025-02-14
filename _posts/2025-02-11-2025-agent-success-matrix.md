@@ -14,7 +14,7 @@ enclosure: '"It''s Much Easier To Keep Up Than To Catch Up"'
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/2025-success-matrix.png
 youtube_code: https://youtu.be/sRFQkhxYAqE?si=8Mw3K-772IOBSbX0
 ---
