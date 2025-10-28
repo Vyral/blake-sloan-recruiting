@@ -7,7 +7,9 @@ excerpt: >-
   The difference between the agents who are thriving right now and the ones who
   are struggling has NOTHING TO DO WITH "The Market"…
 enclosure:
-pullquote:
+pullquote: >-
+  The agents who can PAUSE, ask the right question, and re-commit fast are the
+  ones who win big.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
