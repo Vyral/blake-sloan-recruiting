@@ -5,8 +5,7 @@ date: 2025-10-29 00:00:00
 tags:
 excerpt: >-
   You know what you’re supposed to do… but why don’t you always do it? This
-  training shows how to catch your emotional triggers before they sabotage your
-  calls, your deals, and your momentum.
+  training shows how to catch your emotional triggers
 enclosure:
 pullquote: >-
   Most agents LOSE DEALS not from lack of SKILL… but because they let their
