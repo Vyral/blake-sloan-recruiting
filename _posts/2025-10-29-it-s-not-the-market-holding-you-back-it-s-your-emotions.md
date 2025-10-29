@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/yellow-and-black-modern-attractive-youtube-thumbnail-4.png
-youtube_code: https://youtu.be/fEGH5iqtKNw
+youtube_code: https://youtu.be/6m8LSSoyC1A
 ---
 {% include youtube.html %}
 
