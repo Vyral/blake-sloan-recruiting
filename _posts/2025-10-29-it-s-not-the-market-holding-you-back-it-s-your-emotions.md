@@ -4,8 +4,9 @@ title: It’s Not the Market Holding You Back… It’s Your Emotions
 date: 2025-10-29 00:00:00
 tags:
 excerpt: >-
-  The difference between top-performing agents and those who struggle isn’t the
-  market. It’s emotions
+  You know what you’re supposed to do… but why don’t you always do it? This
+  training shows how to catch your emotional triggers before they sabotage your
+  calls, your deals, and your momentum.
 enclosure:
 pullquote: >-
   Most agents LOSE DEALS not from lack of SKILL… but because they let their
