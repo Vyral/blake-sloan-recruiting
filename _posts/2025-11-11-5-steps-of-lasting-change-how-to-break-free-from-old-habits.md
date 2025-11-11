@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Steps Of Lasting Change | How To Break Free From Old Habits
-date:
+date: 2025-11-11 00:00:00
 tags:
 excerpt:
 enclosure:
