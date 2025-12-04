@@ -3,7 +3,12 @@ layout: post
 title: 'Stop Wasting Potential: Control Your Assets or Pay the Price'
 date: 2025-12-05 00:00:00
 tags:
-excerpt: Your mindset, habits, and personal growth determine your true value
+excerpt: >-
+  Success starts with understanding your most valuable asset: YOU. In this
+  training, Blake shows how to assess your personal assets and liabilities,
+  master your mindset, and turn consistency, health, and skills into measurable
+  results. Learn how to focus on what you can control and create lasting growth
+  in business and life.
 enclosure:
 pullquote: >-
   Your mindset, health, and consistency are your most valuable assets, invest in
