@@ -12,8 +12,8 @@ pullquote: >-
   against you.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/red-bold-finance-youtube-thumbnail-2.png
+use_youtube_image: false
+youtube_alternate_image: /uploads/red-bold-finance-youtube-thumbnail-4.png
 youtube_code: https://youtu.be/pnK2LGHeXBI
 ---
 {% include youtube.html %}
