@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Why you always feel stuck: How to rest your emotional home'
+title: 'Why you Always Feel Stuck: How To Reset Your Emotional Home'
 date: 2025-12-18 00:00:00
 tags:
 excerpt: >-
@@ -10,8 +10,8 @@ enclosure:
 pullquote: MOST AGENTS STAY STUCK BECAUSE OF THEIR EMOTIONS, NOT THEIR SKILLS.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/blue-geometric-shapes-money-investment-youtube-thumbnail.png
+use_youtube_image: false
+youtube_alternate_image: /uploads/blue-geometric-shapes-money-investment-youtube-thumbnail-1.png
 youtube_code: https://youtu.be/SjYh-6LuqRQ
 ---
 {% include youtube.html %}
