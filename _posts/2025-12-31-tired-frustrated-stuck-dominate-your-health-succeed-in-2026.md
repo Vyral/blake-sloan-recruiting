@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tired, Frustrated, Stuck? Dominate Your Health & Succeed in 2026
-date:
+date: 2025-12-31 00:00:00
 tags:
 excerpt: >-
   Kick off 2026 by dominating your health with our 8-week challenge. Build
