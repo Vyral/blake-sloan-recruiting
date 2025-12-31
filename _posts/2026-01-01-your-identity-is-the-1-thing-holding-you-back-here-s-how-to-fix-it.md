@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Your Identity Is the #1 Thing Holding You Back (Here’s How to Fix It)'
+title: Tired, Frustrated, Stuck? Dominate Your Health & Succeed in 2026
 date: 2026-01-01 00:00:00
 tags:
 excerpt: >-
