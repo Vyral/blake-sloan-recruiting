@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Tired, Frustrated, Stuck? Dominate Your Health & Succeed in 2026
+title: 'Your Identity #1 Thing Holding You Back Here''s How To Fix It'
 date: 2025-12-31 00:00:00
 tags:
 excerpt: >-
