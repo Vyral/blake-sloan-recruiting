@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Investing in Yourself Will Change Everything in 2026
+title: 'The #1 Thing That Determines How Many Homes You Sell'
 date: 2026-01-02 00:00:00
 tags:
 excerpt: >-
@@ -15,7 +15,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/red-and-yellow-modern-shocking-moments-youtube-thumbnail-2.png
+youtube_alternate_image: /uploads/red-and-yellow-modern-shocking-moments-youtube-thumbnail-6.png
 youtube_code: https://youtu.be/w-kAXvTSLb4
 ---
 {% include youtube.html %}
