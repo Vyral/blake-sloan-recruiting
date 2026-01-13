@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Real Reason High Performers Burn Out (The Gap vs The Gain)
-date:
+date: 2026-01-13 00:00:00
 tags:
 excerpt: >-
   Blake breaks down The Gap and The Gain and why burnout isn’t about effort, but
