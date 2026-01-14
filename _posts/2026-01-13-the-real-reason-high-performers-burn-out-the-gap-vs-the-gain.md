@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Real Reason High Performers Burn Out (The Gap vs The Gain)
+title: The Shocking Reason High Performers Burn Out (The Gap vs The Gain)
 date: 2026-01-13 00:00:00
 tags:
 excerpt: >-
