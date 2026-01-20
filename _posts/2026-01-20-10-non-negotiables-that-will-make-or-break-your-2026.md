@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/red-and-yellow-dynamic-shock-youtube-thumbnail-6.png
-youtube_code: https://youtu.be/K6xybpLalsYhttps://youtu.be/K6xybpLalsY
+youtube_code: https://youtu.be/K6xybpLalsY
 ---
 {% include youtube.html %}
 
