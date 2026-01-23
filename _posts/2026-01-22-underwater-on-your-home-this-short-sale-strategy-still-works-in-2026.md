@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Underwater on Your Home? This Short Sale Strategy Still Works in 2026
-date: 2026-01-22 00:00:00
+title: How to do a Short Sale in 2026
+date: 2026-01-23 00:00:00
 tags:
 excerpt: >-
   Short sales still work, but only if you understand how banks actually process
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/yellow-and-black-earn-money-youtube-thumbnail-3.png
-youtube_code: https://youtu.be/KENYECdHEos
+youtube_code: https://youtu.be/BYnxEq2PpxI
 ---
 {% include youtube.html %}
 
