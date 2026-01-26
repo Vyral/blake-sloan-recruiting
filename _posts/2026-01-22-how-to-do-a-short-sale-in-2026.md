@@ -14,8 +14,8 @@ pullquote: >-
   wrong.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/yellow-and-black-earn-money-youtube-thumbnail-4.png
 youtube_code: https://youtu.be/BYnxEq2PpxI
 ---
 {% include youtube.html %}
