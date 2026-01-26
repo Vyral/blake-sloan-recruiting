@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Marketing Is the Jab, Closing Is the Punch (Agents 2026 Marketing Playbook)
+title: The Real Reason Your Marketing Isn’t Converting Clients
 date: 2026-01-26 00:00:00
 tags:
 excerpt: >-
