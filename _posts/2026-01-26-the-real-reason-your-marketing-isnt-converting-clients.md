@@ -13,8 +13,8 @@ pullquote: >-
   themselves
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/blue-and-red-gradient-modern-multi-purpose-youtube-thumbnail-6.png
 youtube_code: https://youtu.be/zdaydL0J5vM
 ---
 {% include youtube.html %}
