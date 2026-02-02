@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The 4 Disciplines That Actually Create Real Estate Success
-date:
+date: 2026-02-02 00:00:00
 tags:
 excerpt: >-
   Execution isn’t just activity, it’s every call, every dial, every note. How
