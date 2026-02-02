@@ -11,8 +11,8 @@ enclosure:
 pullquote: Execution is built in every call, note, and conversation.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/blue-and-white-clean-and-bold-videographic-youtube-thumbnail-2.png
 youtube_code: https://youtu.be/HVlE6TDDEUU
 ---
 {% include youtube.html %}
