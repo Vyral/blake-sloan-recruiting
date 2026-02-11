@@ -12,7 +12,7 @@ pullquote: Clients don’t resist your price. They resist your lack of clarity,
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/pink-purple-modern-digital-products-youtube-thumbnail-4.png
+youtube_alternate_image: /uploads/pink-purple-modern-digital-products-youtube-thumbnail-6.png
 youtube_code: https://youtu.be/WUEKujyTMNk
 ---
 {% include youtube.html %}
