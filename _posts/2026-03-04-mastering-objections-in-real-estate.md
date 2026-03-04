@@ -8,8 +8,13 @@ enclosure:
 pullquote: Average agents avoid objections. Professionals prepare for them.
 enclosure_type: video/mp4
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: https://youtu.be/ZhU9ABP-Zp4
+youtube_alternate_image: /uploads/winning-youtube-thumbnail-1.png
+youtube_code: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/ZhU9ABP-Zp4?si=aDmaxMp1pU8nk9UH"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 {% include youtube.html %}
 
