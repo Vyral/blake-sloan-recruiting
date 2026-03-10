@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Create & KEEP Authority With Your Clients.
-date:
+date: 2026-03-10 00:00:00
 tags:
 excerpt: Authority equals congruence. When what you believe, say, and do are aligned.
 enclosure:
