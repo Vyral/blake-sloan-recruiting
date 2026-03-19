@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Get Clients to Trust You & Follow Your Advice (Proof Matrix)
+title: How To Get Price Reductions & Get Your Clients To Actually Listen To You
 date: 2026-03-19 00:00:00
 tags:
   - real estate training
