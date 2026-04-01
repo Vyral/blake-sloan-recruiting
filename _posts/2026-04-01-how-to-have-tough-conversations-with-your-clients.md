@@ -20,7 +20,7 @@ excerpt: >-
   apart. In this training, Blake Sloan breaks down how to confidently lead
   clients, use data to remove emotion, and guide buyers and sellers to real
   decisions in today’s market.
-enclosure: https://www.youtube.com/watch?v=AkwqXMDBrXQ
+enclosure:
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
