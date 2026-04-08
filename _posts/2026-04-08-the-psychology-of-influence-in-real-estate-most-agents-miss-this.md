@@ -23,6 +23,11 @@ enclosure:
 pullquote:
 enclosure_type: video/mp4
 use_youtube_image: true
-youtube_alternate_image: https://www.youtube.com/watch?v=Uif28rtCxG0
-youtube_code: https://www.youtube.com/watch?v=Uif28rtCxG0
+youtube_alternate_image: /uploads/winning-youtube-thumbnail-3.png
+youtube_code: >-
+  <iframe width="560" height="315"
+  src="https://www.youtube.com/embed/Uif28rtCxG0?si=5mObiFtk28lkRWg8"
+  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
+  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
