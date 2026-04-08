@@ -1,6 +1,6 @@
 ---
 layout: post
-title: https://www.youtube.com/watch?v=Uif28rtCxG0
+title: The Psychology Of Influence In Real Estate (Most Agents Miss This)
 date: 2026-04-08 00:00:00
 tags:
 excerpt:
