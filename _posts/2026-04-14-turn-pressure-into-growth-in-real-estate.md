@@ -29,7 +29,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/winning-youtube-thumbnail-5.png
+youtube_alternate_image: https://www.youtube.com/watch?v=iY4c97LDJA4&feature=youtu.be
 youtube_code: https://www.youtube.com/watch?v=iY4c97LDJA4
 ---
 {% include youtube.html %}
