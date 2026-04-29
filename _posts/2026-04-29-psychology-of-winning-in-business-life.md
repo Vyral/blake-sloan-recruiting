@@ -10,7 +10,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/winning-youtube-thumbnail-13.png
-youtube_code: https://www.youtube.com/watch?v=WEqKAG1hYw8
+youtube_code: https://youtu.be/N-y9cc2mR2I
 ---
 {% include youtube.html %}
 
