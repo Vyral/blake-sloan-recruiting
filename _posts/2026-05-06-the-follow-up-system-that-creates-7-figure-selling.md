@@ -3,6 +3,7 @@ layout: post
 title: The Follow Up System That Creates 7 Figure Selling
 date: 2026-05-06 00:00:00
 tags:
+  - Training
 excerpt:
 enclosure:
 pullquote:
