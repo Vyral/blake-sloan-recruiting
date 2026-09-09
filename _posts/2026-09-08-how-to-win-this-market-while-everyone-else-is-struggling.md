@@ -9,12 +9,8 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
-youtube_code: <iframe width="560" height="315"
-  src="https://www.youtube.com/embed/SoFRbcDT2GU?si=VIrlFdj6buDI5EnY"
-  title="YouTube video player" frameborder="0" allow="accelerometer; autoplay;
-  clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-  referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+youtube_alternate_image: /uploads/chatgpt-image-sep-10-2026-04-13-29-am.png
+youtube_code: https://www.youtube.com/watch?v=SoFRbcDT2GU
 ---
 {% include youtube.html %}
 
