@@ -1,7 +1,6 @@
 ---
 layout: post
-title: 'Data Over Drama: How to Win When Everyone Else Is Panicking | Real
-  Estate Training'
+title: POWER VS. PANIC - How To Win In A High Resistance Market
 date: 2026-10-07T00:00:00Z
 tags:
 excerpt:
